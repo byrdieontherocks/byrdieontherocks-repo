@@ -1,0 +1,464 @@
+/* General body and header styling */
+body {
+    font-family: 'Kanit', sans-serif;
+    background-color: #f8f9fa;
+    margin: 0;
+    padding: 0; /* Ensure no padding on body */
+    color: #11324D;
+}
+
+html {
+    width: 100%; /* Ensure html element takes full width */
+}
+
+/* General reset for all elements (optional but useful for consistency) */
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+
+
+
+
+/* Logo inside navbar */
+#logo-img {
+    height: 300px;
+    margin-bottom: -80px; 
+    margin-left: -20px;
+    display: block;
+    align-self: flex-start;
+    position: relative;
+    top: -45px; 
+}
+/* End of logo inside navbar */
+
+.navbar-brand {
+    padding: 0; 
+    margin-left: -50px;
+}
+/* Navbar links */
+.navbar-nav {
+    margin-left: auto;
+    margin-top: 5px;
+}
+
+/* Targeting the navigation list */
+#nav-list li a {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    text-decoration: none;
+    color: #11324D; /* Ensure consistent text color */
+    transition: color 0.3s ease; /* Smooth transition for color change */
+}
+#nav-list li a:hover {
+      color: #78B3CE; /* Nav text and icon color changed when hover */
+
+    }
+
+.navbar-nav li {
+    margin: 10px 0;
+}
+
+.navbar-collapse.show {
+    margin-top: 5px;
+}
+
+
+/* ------------------ Device-based navbar adjustments ------------- */
+@media (max-width: 768px) {
+    /* Logo size for small screens */
+    #logo-img {
+        height: 300px;
+
+    }
+
+    /* Ensure the nav container spans the full width */
+    #nav-list {
+        width: 100%; /* Full width */
+        padding: 0; 
+        margin: 0;
+    }
+
+    #nav-list li {
+        display: block; /* Block-level elements */
+        width: 100%; 
+        text-align: center;
+    }
+
+    #nav-list li:hover {
+        background-color: #78B3CE; /* Full-width hover background */
+    }
+
+    .about-byrdie {
+        text-align: center;
+    }
+}
+
+
+/* --Medium screen adjustments (tablets)-- */
+@media (max-width: 983px) {
+    /* Logo size for medium screens */
+    #logo-img {
+        height: 250px;
+    }
+
+    /* Make the nav container full-width */
+    #nav-list {
+        width: 100%; /* Ensure the nav container spans the full width */
+        padding: 0; /* Remove any default padding */
+        margin: 0; /* Remove any default margin */
+    }
+
+    #nav-list li {
+        display: block; /* Make list items block-level elements */
+        width: 100%; /* Ensure list items span the full width */
+        text-align: center; /* Optional: Center align text */
+    }
+
+    #nav-list li:hover {
+        background-color: #78B3CE; /* Apply background color to full width */
+    }
+
+    .about-byrdie {
+        text-align: center;
+    }
+
+    #nav-list li a:hover {
+      color:  white;
+}
+
+/* ------------------ End device-based navbar adjustments ------------- */
+
+
+
+/*  background change color when hover on each nav list */
+
+
+
+/* 
+#nav-list:hover {
+    background-color: #11324D;
+}
+
+.navbar-collapse.show {
+    margin-top: 10px;
+}
+
+.navbar-nav {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+.navbar-nav li {
+    margin: 10px 0;
+}
+*/
+
+/* --------------------Jumbotron section ---------------------------   */
+    .jumbotron {
+       /* margin-top: 180px; /* Prevent overlap with navbar */
+    }
+
+    .content-1 {
+        margin-top: 180px; /* Make sure content doesn't overlap */
+    }
+
+    /* Ensure logo size is smaller on mobile */
+    #logo-img {
+        height: 200px;
+        object-fit: contain;
+        margin-left: 0;
+        margin-right: 15px;
+    }
+}
+
+/* --End jumbotron section -- */
+
+/* Applying 'kanit-light' to text content */
+.content-1, h1.text-center, p {
+    font-family: 'Kanit', serif;
+    font-weight: 300;
+    font-style: normal;
+}
+
+/* Jumbotron styling */
+.jumbotron {
+    padding: 0;
+    margin-bottom: 0;
+    overflow: hidden;
+}
+
+.jumbotron .image-container img {
+    width: 100%;
+    height: auto;
+    object-fit: cover;
+    max-height: 1012px;
+}
+
+/* Welcome text */
+h1.text-center {
+    font-size: 1.5rem;
+    margin-top: 20px;
+    color: #11324D;
+    font-weight: bold;
+}
+
+.content-1 {
+    font-size: 1.1rem;
+    margin-top: 20px;
+    padding-top: 20px;
+    color: #11324D;
+}
+
+/*---------------- Footer styling --------------------------------- */
+
+
+.my-blog-cta a {
+    background-color: white;
+    color: #11324D; 
+    margin-bottom: -350px;
+}
+
+/* CTA Button styles */
+.btn-primary:hover {
+    background-color: white;
+    color: #11324D;
+}
+
+.btn-primary {
+    background-color: #11324D;
+    color: #fff;
+    font-size: 18px;
+    border-color: none;
+}
+
+.btn-lg {
+    padding: 15px 30px;
+    margin-top: 20px;
+    margin-bottom: 20px;
+}
+
+.about-cta {
+    margin-top: 20px;
+    margin-bottom: 40px;
+    transition: opacity 0.15s;
+    border-color: none;
+}
+
+.about-cta:hover {
+    background-color: white;
+    color: #11324D;
+}
+
+
+footer {
+  background-color: #f8f9fa;
+  color: #001222; 
+  padding: 10px 0; 
+  text-align: center; 
+  margin-top: 5px;
+   font-family: Roboto Slab !important;
+}
+
+/* -------------- About me styling-------------------------------*/
+
+/* Reset margin and padding for all container-fluid and row elements */
+.container-fluid, .row {
+    margin: 0;
+    padding: 0;
+}
+
+/* Remove custom margin from the image */
+.top-banner img {
+  object-fit: cover;
+  width: 100%;
+  height: auto;
+}
+
+/* Specific to .top-banner section */
+.top-banner {
+    padding: 0;
+    margin: 0;
+}
+
+/*.about-me {
+    background-color: #11324D !important; 
+    padding: 20px; 
+}
+*/
+
+
+.about-byrdie {
+    color:  #11324D;
+    font-size: 3rem !important;
+    margin-bottom: 10px;
+}
+
+.content-about {
+    color:  #11324D !important;
+    font-size: 1rem;
+    overflow: hidden; /* Ensure the content wraps properly next to the floated image */
+}
+
+
+/* ---------------------------- my blogs homepage styling -----------------------------------*/ 
+
+
+.top-container {
+    margin-top: -20px !important;
+}
+
+
+.text-primary {
+    color: #0A122A !important;
+}
+
+.extra-bold {
+    font-weight: 600; /* Boldness level */
+    color: #0A122A;
+    margin-top: 10px !important;
+    display: block; /* Makes it behave like a block element */
+}
+
+
+/* ---------------------------- Krabi climbing day 1 styling -----------------------------------*/ 
+
+h1.day-1 {
+  margin-bottom: 20px;
+  font-size: 50px;
+  text-align: center;
+    font-family: "Roboto Slab", serif !important;
+}
+
+.day-1-date {
+  margin-top: 20px; 
+  letter-spacing: 1px;
+    font-family: "Roboto Slab", serif;
+}
+
+.krabi-image {
+    margin-top: 20px;
+}
+
+
+.content-krabi {
+    font-family: 'Kanit', serif;
+    font-weight: 300;
+    font-style: normal;
+}
+
+.h2-krabi{
+    margin-bottom: 40px;
+    margin-top: 40px;
+}
+
+h2.h2-custom-heading{
+    font-size: 30px;
+
+}
+
+.section-divider-day1{
+     margin-bottom:40px;
+    margin-top:40px;
+
+}
+.img-thumbnail {
+  border-radius: 0 !important;
+}
+
+.bold-text-krabi{
+    font-weight: 500;
+}
+.text-italic{
+    font-style: italic;
+}
+
+.text-underline{
+    text-decoration: underline;
+}
+
+.navigation-krabi {
+  font-family: "Roboto Slab", serif;
+  font-optical-sizing: auto;
+  font-weight: 500;
+  font-style: normal;
+  text-decoration: none; 
+  /* word-spacing: 50px; */
+  letter-spacing: 5px;
+  color: #001222;
+}
+
+
+
+.navigation-krabi svg {
+  width: 32px; 
+  height: 32px; 
+}
+
+
+
+/*--For small screen --*/ 
+
+@media (max-width: 767px) {
+  /* Example: Make the navbar links stack vertically on small screens */
+ 
+
+  .day-1 {
+    font-size: 1.5rem;
+  }
+
+  .day-1-date {
+    font-size: 1rem;
+  }
+
+  /* Example: Adjust image size for the big banner */
+  .krabi-image img {
+    width: 100%;
+    height: auto;
+  }
+
+  /* Adjust the caption font size on small screens */
+  .caption-nw {
+    font-size: 0.7rem;
+  }
+
+  /* Adjust padding for content sections */
+  .content-krabi {
+    padding: 1rem;
+  }
+
+  /* Make the blog section more readable */
+  .h2-custom-heading {
+    font-size: 1.0rem;
+  }
+
+
+  .h2-krabi{
+    margin-bottom: 10px;
+    margin-top: 10px;
+}
+
+.navigation-krabi {
+  font-family: "Roboto Slab", serif;
+  font-optical-sizing: auto;
+  font-weight: 500;
+  font-style: normal;
+  text-decoration: none; 
+  /* word-spacing: 50px; */
+  letter-spacing: 0px;
+  color: #001222;
+}
+
+
+.navigation-krabi svg {
+  width: 20px; 
+  height: 20px; 
+}
+}
+
+/*--End of for small screen --*/ 
