@@ -78,19 +78,18 @@ html {
 
     /* Ensure the nav container spans the full width */
     #nav-list {
-        width: 100%; /* Full width */
+        width: 100%; 
         padding: 0; 
         margin: 0;
     }
 
     #nav-list li {
-        display: block; /* Block-level elements */
-        width: 100%; 
+        display: block;
         text-align: center;
     }
 
     #nav-list li:hover {
-        background-color: #78B3CE; /* Full-width hover background */
+        background-color: #78B3CE; 
     }
 
     .about-byrdie {
@@ -106,21 +105,21 @@ html {
         height: 250px;
     }
 
-    /* Make the nav container full-width */
+    /* The nav container full-width */
     #nav-list {
-        width: 100%; /* Ensure the nav container spans the full width */
-        padding: 0; /* Remove any default padding */
-        margin: 0; /* Remove any default margin */
+        width: 100%; 
+        padding: 0; 
+        margin: 0;
     }
 
     #nav-list li {
-        display: block; /* Make list items block-level elements */
-        width: 100%; /* Ensure list items span the full width */
-        text-align: center; /* Optional: Center align text */
+        display: block; 
+        width: 100%; 
+        text-align: center; 
     }
 
     #nav-list li:hover {
-        background-color: #78B3CE; /* Apply background color to full width */
+        background-color: #78B3CE; 
     }
 
     .about-byrdie {
@@ -267,22 +266,21 @@ footer {
    font-family: Roboto Slab !important;
 }
 
-/* -------------- About me styling-------------------------------*/
+/* -- About me styling---*/
 
-/* Reset margin and padding for all container-fluid and row elements */
 .container-fluid, .row {
     margin: 0;
     padding: 0;
 }
 
-/* Remove custom margin from the image */
+
 .top-banner img {
   object-fit: cover;
   width: 100%;
   height: auto;
 }
 
-/* Specific to .top-banner section */
+
 .top-banner {
     padding: 0;
     margin: 0;
@@ -304,11 +302,11 @@ footer {
 .content-about {
     color:  #11324D !important;
     font-size: 1rem;
-    overflow: hidden; /* Ensure the content wraps properly next to the floated image */
+    overflow: hidden; 
 }
 
 
-/* ---------------------------- my blogs homepage styling -----------------------------------*/ 
+/* -- my blogs homepage styling --*/ 
 
 
 .top-container {
@@ -321,10 +319,10 @@ footer {
 }
 
 .extra-bold {
-    font-weight: 600; /* Boldness level */
+    font-weight: 600;
     color: #0A122A;
     margin-top: 10px !important;
-    display: block; /* Makes it behave like a block element */
+    display: block; /* block element */
 }
 
 /* Default Font Size for Larger Screens */
@@ -339,16 +337,15 @@ h2 {
   /* Media Query for Small Screens (below 990px) */
   @media (max-width: 990px) {
     h2 {
-      font-size: 1.5rem; /* Reduce the size on smaller screens */
+      font-size: 1.5rem;
     }
   
     p {
-      font-size: 0.9rem; /* Reduce the size on smaller screens */
+      font-size: 0.9rem; 
     }
   
-    /* Optional: You can also adjust the button size if necessary */
     .btn {
-      font-size: 0.9rem;
+      font-size: 0.7rem;
     }
   }
 
@@ -366,13 +363,15 @@ h2 {
       width: 100%; 
     }
 
-    .main-content-blog  {
+    .main-content-blog {
         text-align: center;
-        font-weight: normal;
+        font-weight: 350;
+        font-size: 0.9rem;
     }
 
     .p-main {
         text-align: center;
+    
     }
   
     .btn {
