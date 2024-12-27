@@ -51,8 +51,8 @@ html {
     align-items: center;
     justify-content: center;
     text-decoration: none;
-    color: #11324D; /* Ensure consistent text color */
-    transition: color 0.3s ease; /* Smooth transition for color change */
+    color: #11324D; 
+    transition: color 0.3s ease; /* Transition for color change */
 }
 #nav-list li a:hover {
       color: #78B3CE; /* Nav text and icon color changed when hover */
@@ -131,7 +131,7 @@ html {
       color:  white;
 }
 
-/* ------------------ End device-based navbar adjustments ------------- */
+/* -- End device-based navbar adjustments -- */
 
 
 
@@ -159,10 +159,7 @@ html {
 }
 */
 
-/* --------------------Jumbotron section ---------------------------   */
-    .jumbotron {
-       /* margin-top: 180px; /* Prevent overlap with navbar */
-    }
+/* ---umbotron section -- */
 
     .content-1 {
         margin-top: 180px; /* Make sure content doesn't overlap */
@@ -234,7 +231,7 @@ h1.text-center {
     background-color: #11324D;
     color: #fff;
     font-size: 18px;
-    border-color: none;
+  
 }
 
 .btn-lg {
@@ -247,13 +244,18 @@ h1.text-center {
     margin-top: 20px;
     margin-bottom: 40px;
     transition: opacity 0.15s;
-    border-color: none;
 }
 
 .about-cta:hover {
     background-color: white;
     color: #11324D;
 }
+
+.gallery-section {
+    border-width: 1000px;
+    border-color: #1b47cd;
+}
+
 
 
 footer {
@@ -325,12 +327,82 @@ footer {
     display: block; /* Makes it behave like a block element */
 }
 
+/* Default Font Size for Larger Screens */
+h2 {
+    font-size: 2rem; 
+  }
+  
+  p {
+    font-size: 1rem; 
+  }
+  
+  /* Media Query for Small Screens (below 990px) */
+  @media (max-width: 990px) {
+    h2 {
+      font-size: 1.5rem; /* Reduce the size on smaller screens */
+    }
+  
+    p {
+      font-size: 0.9rem; /* Reduce the size on smaller screens */
+    }
+  
+    /* Optional: You can also adjust the button size if necessary */
+    .btn {
+      font-size: 0.9rem;
+    }
+  }
 
-/* ---------------------------- Krabi climbing day 1 styling -----------------------------------*/ 
+/* Media Query for blog page (below 767px) */
+@media (max-width: 767px) {
+
+    .h2-blog, .p-blog, .h2-main, .p-blog-main {
+      text-align: center; 
+    }
+  
+    .navigation-blog, .navigation-blog-main {
+      display: flex; 
+      justify-content: center; 
+      margin: 10px 0;  
+      width: 100%; 
+    }
+
+    .main-content-blog  {
+        text-align: center;
+        font-weight: normal;
+    }
+
+    .p-main {
+        text-align: center;
+    }
+  
+    .btn {
+      font-size: 0.9rem;
+    }
+  
+    .col-lg-6, .col-md-6, .col-12 {
+      display: flex;
+      flex-direction: column;
+      justify-content: center; 
+      align-items: center;  
+    }
+  
+    /* Adjusting the image size */
+    .blog-image {
+      width: 100%;  
+      max-width: 100%;  
+      height: auto;
+      object-fit: cover;
+    }
+  
+  }
+  
+  
+
+/* -- Krabi climbing day 1 styling --*/ 
 
 h1.day-1 {
   margin-bottom: 20px;
-  font-size: 50px;
+  font-size: 40px;
   text-align: center;
     font-family: "Roboto Slab", serif !important;
 }
@@ -353,14 +425,15 @@ h1.day-1 {
 }
 
 .h2-krabi{
-    margin-bottom: 40px;
-    margin-top: 40px;
+    margin-bottom: 25px;
+    margin-top: 25px;
 }
 
 h2.h2-custom-heading{
     font-size: 30px;
 
 }
+
 
 .section-divider-day1{
      margin-bottom:40px;
@@ -384,20 +457,25 @@ h2.h2-custom-heading{
 
 .navigation-krabi {
   font-family: "Roboto Slab", serif;
-  font-optical-sizing: auto;
   font-weight: 500;
   font-style: normal;
   text-decoration: none; 
   /* word-spacing: 50px; */
   letter-spacing: 5px;
   color: #001222;
+  margin-top: 120px;
 }
+
 
 
 
 .navigation-krabi svg {
   width: 32px; 
   height: 32px; 
+}
+
+.web-footer {
+    margin-top: 2%;
 }
 
 
@@ -409,11 +487,11 @@ h2.h2-custom-heading{
  
 
   .day-1 {
-    font-size: 1.5rem;
+    font-size: 1.5rem !important;
   }
 
   .day-1-date {
-    font-size: 1rem;
+    font-size: 1.0rem;
   }
 
   /* Example: Adjust image size for the big banner */
@@ -434,7 +512,7 @@ h2.h2-custom-heading{
 
   /* Make the blog section more readable */
   .h2-custom-heading {
-    font-size: 1.0rem;
+    font-size: 1.3rem !important;
   }
 
 
@@ -445,7 +523,6 @@ h2.h2-custom-heading{
 
 .navigation-krabi {
   font-family: "Roboto Slab", serif;
-  font-optical-sizing: auto;
   font-weight: 500;
   font-style: normal;
   text-decoration: none; 
