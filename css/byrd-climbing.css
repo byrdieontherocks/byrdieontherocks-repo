@@ -52,7 +52,7 @@ html {
     justify-content: center;
     text-decoration: none;
     color: #11324D; 
-    transition: color 0.3s ease; /* Transition for color change */
+    transition: color 0.3s ease; 
 }
 #nav-list li a:hover {
       color: #78B3CE; /* Nav text and icon color changed when hover */
@@ -480,61 +480,62 @@ h2.h2-custom-heading{
 
 
 /*--For small screen --*/ 
-
 @media (max-width: 767px) {
-  /* Example: Make the navbar links stack vertically on small screens */
- 
+  /* Adjust Bootstrap Gutter */
+  .navigation-bottom .row {
+    --bs-gutter-x: 0.6rem; /* Horizontal gap */
+    --bs-gutter-y: 0; /* Vertical gap */
+  }
 
+  .navigation-bottom {
+    margin-top: -50px; /* Reduce the top margin on smaller screens */
+  }
+
+  .navigation-krabi {
+    font-family: "Roboto Slab", serif;
+    font-weight: 500;
+    color: #001222;
+    text-decoration: none;
+    letter-spacing: 0;
+  }
+
+  .navigation-krabi svg {
+    width: 20px; 
+    height: 20px;
+  }
+
+  /* Adjust font sizes */
   .day-1 {
     font-size: 1.5rem !important;
   }
 
   .day-1-date {
-    font-size: 1.0rem;
+    font-size: 1rem;
   }
 
-  /* Example: Adjust image size for the big banner */
+  .h2-custom-heading {
+    font-size: 1.3rem !important;
+  }
+
+  .h2-krabi {
+    margin-top: 10px;
+    margin-bottom: 10px;
+  }
+
+  /* Responsive images */
   .krabi-image img {
     width: 100%;
     height: auto;
   }
 
-  /* Adjust the caption font size on small screens */
-  .caption-nw {
-    font-size: 0.7rem;
-  }
-
-  /* Adjust padding for content sections */
+  /* Content padding */
   .content-krabi {
     padding: 1rem;
   }
 
-  /* Make the blog section more readable */
-  .h2-custom-heading {
-    font-size: 1.3rem !important;
+  /* Caption adjustments */
+  .caption-nw {
+    font-size: 0.7rem;
   }
-
-
-  .h2-krabi{
-    margin-bottom: 10px;
-    margin-top: 10px;
 }
 
-.navigation-krabi {
-  font-family: "Roboto Slab", serif;
-  font-weight: 500;
-  font-style: normal;
-  text-decoration: none; 
-  /* word-spacing: 50px; */
-  letter-spacing: 0px;
-  color: #001222;
-}
-
-
-.navigation-krabi svg {
-  width: 20px; 
-  height: 20px; 
-}
-}
-
-/*--End of for small screen --*/ 
