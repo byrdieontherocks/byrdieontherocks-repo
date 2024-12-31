@@ -1,0 +1,6 @@
+<script>
+  let path = window.location.pathname;
+  if (!path.endsWith('/') && !path.includes('.')) {
+    window.location.href = path + '.html';
+  }
+</script>
