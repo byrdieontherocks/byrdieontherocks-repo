@@ -538,7 +538,7 @@ h2.h2-custom-heading{
 /*-- Blog 2 Styling  --*/ 
 
 .img-gallery {
-height: 95%;
+height: auto;
  
 }
 
