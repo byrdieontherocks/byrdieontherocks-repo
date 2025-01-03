@@ -434,17 +434,17 @@ h2.h2-custom-heading{
 }
 
 
-.section-divider-day1{
-     margin-bottom:40px;
-    margin-top:40px;
+.section-divider-day2{
 
+    border-top: 2px solid #11324D ;
+    
 }
 .img-thumbnail {
   border-radius: 0 !important;
 }
 
 .bold-text-krabi{
-    font-weight: 500;
+    font-weight: 400;
 }
 .text-italic{
     font-style: italic;
@@ -528,14 +528,17 @@ h2.h2-custom-heading{
     height: auto;
   }
 
-  /* Content padding */
-  .content-krabi {
-    padding: 1rem;
-  }
 
   /* Caption adjustments */
   .caption-nw {
     font-size: 0.7rem;
   }
+}
+
+/*-- Blog 2 Styling  --*/ 
+
+.img-gallery {
+height: 95%;
+ 
 }
 
