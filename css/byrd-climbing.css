@@ -538,7 +538,20 @@ h2.h2-custom-heading{
 /*-- Blog 2 Styling  --*/ 
 
 .img-gallery {
-height: auto;
+height: 95%;
  
 }
+
+
+
+/*-- Blog 3 Styling  --*/ 
+
+.figcaption-text {
+  text-align: center; 
+  font-size: 0.8em;
+  font-weight: 300;
+
+}
+
+
 
