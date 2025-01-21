@@ -267,6 +267,24 @@ footer {
    font-family: Roboto Slab !important;
 }
 
+.featured-blog {
+  text-align: left;
+  color: white !important;
+  font-family: Roboto Slab;
+}
+
+#featured-blog * {
+  margin-left: 20px;
+}
+
+
+.cta-blog {
+  margin-left: -1px !important;
+}
+
+
+
+
 /* -- About me styling---*/
 
 .container-fluid, .row {
@@ -307,7 +325,7 @@ footer {
 }
 
 
-/* -- my blogs homepage styling --*/ 
+/* -- my blog homepage styling --*/ 
 
 
 .top-container {
@@ -553,6 +571,8 @@ height: 95%;
   font-weight: 300;
 
 }
+
+
 
 
 
