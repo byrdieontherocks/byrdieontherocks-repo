@@ -610,3 +610,73 @@ height: 95%;
 
 }
 
+/*-- Day 4 --*/
+
+.image-day4{
+  margin-top: 0;
+}
+
+.day-4 {
+  margin-top: 0 !important;
+  text-align: center;
+  font-family: "Roboto Slab", serif;
+  font-size: 2rem !important;
+  font-weight: 500 !important;
+}
+
+#tip-3 {
+  font-weight: 600;
+}
+
+.content-day-4 {
+  font-weight: 300 ;
+}
+
+.day-4-date {
+font-size: 1.0rem;
+letter-spacing: 1px;
+}
+
+/*--For small screen --*/ 
+@media (max-width: 767px) {
+  .day-4 {
+    font-size: 1.3em !important;
+  }
+
+  .day-4-date {
+    letter-spacing: 1px;
+    font-size: 0.9rem;
+    }
+
+    .content-day-4 {
+      font-size: 0.9rem;
+    }
+
+    .h2-day4{
+      font-size: 1.5rem;
+    }
+
+}
+
+
+
+#backToTop {
+  display: none;
+  position: fixed;
+  bottom: 20px;
+  right: 20px;
+  background-color: #001222; 
+  color: white;
+  border: none;
+  padding: 10px 15px;
+  cursor: pointer;
+  border-radius: 5px;
+  font-size: 14px;
+  font-family: 'Kanit', sans-serif;
+}
+
+#backToTop:hover {
+  background-color: #0d253a;
+}
+
+
