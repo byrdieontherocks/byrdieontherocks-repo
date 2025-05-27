@@ -610,6 +610,19 @@
 </div>
 </div> 
 
+  <!-- ✅ Pop-up -->
+
+<div id="popup" class="popup">
+  <div class="popup-content">
+    <span id="close-btn" class="close-btn">&times;</span>
+    
+    <p>👋 Hey there! This blog is just me sharing my climbing adventures and learning to code along the way. It’s not pro advice — just good vibes and personal stories!</p>
+    
+    <!-- ✅ New "Continue Reading" button -->
+    <button id="continue-btn" class="continue-btn">Continue Reading</button>
+  </div>
+</div>
+
 <footer>
 <div class="container text-center web-footer">
   <p>&copy; 2024 Byrdie Climbing Blogs | All rights reserved</p>
@@ -635,6 +648,21 @@ window.onscroll = function() {
 document.getElementById("backToTop").addEventListener("click", function() {
     window.scrollTo({top: 0, behavior: 'smooth'});
 });
+
+  // Disclaimer function
+ window.onload = function() {
+    const popup = document.getElementById('popup');
+    const closeBtn = document.getElementById('close-btn');
+
+    closeBtn.addEventListener('click', function() {
+      popup.style.display = 'none';
+    });
+  };
+
+    document.getElementById('continue-btn').onclick = function() {
+    document.getElementById('popup').style.display = 'none';
+  };
+  
 </script>
 
 </body>
