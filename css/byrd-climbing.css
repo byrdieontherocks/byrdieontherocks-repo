@@ -808,6 +808,44 @@ letter-spacing: 1px;
   color: #0a1e30;
 }
 
+/*-- Malaysia Part 2 Gallery screen --*/ 
+
+.route-gallery {
+  margin-top: 2rem;
+
+}
+
+.gallery-heading {
+  font-size: 1.5rem;
+  margin-bottom: 1rem;
+  text-align: center;
+
+}
+
+.gallery-grid {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 1rem;
+  justify-content: space-between;
+}
+
+.gallery-item {
+  flex: 1 1 calc(33% - 1rem);
+  box-sizing: border-box;
+}
+
+.gallery-item img {
+  width: 100%;
+  height: auto;
+  object-fit: cover;
+}
+
+.caption {
+  font-size: 0.9rem;
+  margin-top: 0.3rem;
+  color:: #001222;
+}
+
 
 
 
