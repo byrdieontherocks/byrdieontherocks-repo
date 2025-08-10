@@ -18,14 +18,6 @@ html {
     box-sizing: border-box;
 }
 
-.container-fluid {
-  padding-left: 0 !important;
-  padding-right: 0 !important;
-  margin-left: 0 !important;
-  margin-right: 0 !important;
-  max-width: 100% !important;
-}
-
 
 
 /* Logo inside navbar */
@@ -656,13 +648,14 @@ letter-spacing: 1px;
     font-size: 0.9rem;
     }
 
-    .content-blog {
-      font-size: 0.9rem!;
+    .content-day-4 {
+      font-size: 0.9rem;
     }
 
-    .h2-blog {
+    .h2-day4{
       font-size: 1.5rem;
     }
+
 }
 
 
@@ -681,17 +674,9 @@ letter-spacing: 1px;
   font-size: 14px;
   font-family: 'Kanit', sans-serif;
 }
-
+ 
 #backToTop:hover {
   background-color: #0d253a;
-}
-
-/*-- Lopburi Page Stayling --*/ 
-
-.full-width-img {
-  width: 100vw; /* Full viewport width */
-  height: auto;
-  object-fit: cover;
 }
 
 
@@ -827,12 +812,14 @@ letter-spacing: 1px;
 
 .route-gallery {
   margin-top: 2rem;
-  align-items: center;
+
 }
 
 .gallery-heading {
   font-size: 1.5rem;
   margin-bottom: 1rem;
+  text-align: center;
+
 }
 
 .gallery-grid {
@@ -850,24 +837,13 @@ letter-spacing: 1px;
 .gallery-item img {
   width: 100%;
   height: auto;
-  border-radius: 8px;
   object-fit: cover;
 }
 
 .caption {
   font-size: 0.9rem;
   margin-top: 0.3rem;
-  color: #555;
-}
-
-/* Layout & Spacing */
-body {
-  margin: 40px;
-  line-height: 1.6;
-}
-
-h2 {
-  margin-top: 40px;
+  color:: #001222;
 }
 
 
@@ -1005,108 +981,5 @@ h2 {
   color:#001222;
   margin-top: 0.5rem;
 }
-
-
-/* Longdong  */
-
-/* Popup container */
-#popupBoxTaiwan {
-  position: fixed;
-  bottom: 24px;
-  right: 24px;
-
-  width: 260px;
-  padding: 16px;
-
-  background-color: #fff;
-  border: 1px solid #ccc;
-  border-radius: 8px;
-  box-shadow: 0 6px 16px rgba(0, 0, 0, 0.1);
-
-  display: none;
-  z-index: 1000;
-
-  text-align: center; /* center text and button */
-}
-
-/* Paragraph inside popup */
-#popupBoxTaiwan p {
-  margin: 0 0 12px 0;
-  color: #11324d;
-}
-
-/* Popup button */
-#popupBoxTaiwan .popup-btn {
-  display: block;
-  margin: 0 auto;
-  padding: 8px 14px;
-
-  width: auto;        
-  max-width: 150px;    
-
-  background-color: #11324d;
-  color: white;
-  text-decoration: none;
-  border-radius: 4px;
-
-  text-align: center; 
-  transition: background-color 0.3s ease;
-}
-
-#popupBoxTaiwan .popup-btn:hover {
-  background-color: #0d2538;
-}
-
-/* Close button */
-#closePopupTaiwan {
-  position: absolute;
-  top: 8px;
-  right: 10px;
-
-  color: #666;
-  cursor: pointer;
-  font-size: 20px; /* make the close button bigger */
-  user-select: none; 
-}
-
-#closePopupTaiwan:hover {
-  color: #000;
-}
-
-/** Gallery section **/
- #taipei-gallery figure img {
-  width: 100%;
-  max-height: 400px;
-  object-fit: cover;
-  display: block;
-}
-
-@media (max-width: 767px) {
-  .taipei-gallery figure img {
-    max-height: 400px; /* smaller height on mobile */
-  }
-}
-
-/** Arrival at Longdong gallery **/
-.longdong-gallery figure img {
-  width: 100%;
-  max-height: 650px;   
-  object-fit: cover;
-  display: block;
-}
-
-@media (max-width: 768px) {
-  .longdong-gallery figure img {
-    max-height: 500px;  
-  }
-}
-
-.longdong-gallery figcaption {
-  text-align: center;
-  padding: 6px 0 0 0;
-  font-size: 0.8rem;
-  font-weight: 350;
-}
-
 
 
