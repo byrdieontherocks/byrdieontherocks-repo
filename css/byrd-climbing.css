@@ -18,6 +18,14 @@ html {
     box-sizing: border-box;
 }
 
+.container-fluid {
+  padding-left: 0 !important;
+  padding-right: 0 !important;
+  margin-left: 0 !important;
+  margin-right: 0 !important;
+  max-width: 100% !important;
+}
+
 
 
 /* Logo inside navbar */
@@ -648,14 +656,13 @@ letter-spacing: 1px;
     font-size: 0.9rem;
     }
 
-    .content-day-4 {
-      font-size: 0.9rem;
+    .content-blog {
+      font-size: 0.9rem!;
     }
 
-    .h2-day4{
+    .h2-blog {
       font-size: 1.5rem;
     }
-
 }
 
 
@@ -674,9 +681,17 @@ letter-spacing: 1px;
   font-size: 14px;
   font-family: 'Kanit', sans-serif;
 }
- 
+
 #backToTop:hover {
   background-color: #0d253a;
+}
+
+/*-- Lopburi Page Stayling --*/ 
+
+.full-width-img {
+  width: 100vw; /* Full viewport width */
+  height: auto;
+  object-fit: cover;
 }
 
 
@@ -812,14 +827,12 @@ letter-spacing: 1px;
 
 .route-gallery {
   margin-top: 2rem;
-
+  align-items: center;
 }
 
 .gallery-heading {
   font-size: 1.5rem;
   margin-bottom: 1rem;
-  text-align: center;
-
 }
 
 .gallery-grid {
@@ -837,13 +850,24 @@ letter-spacing: 1px;
 .gallery-item img {
   width: 100%;
   height: auto;
+  border-radius: 8px;
   object-fit: cover;
 }
 
 .caption {
   font-size: 0.9rem;
   margin-top: 0.3rem;
-  color:: #001222;
+  color: #555;
+}
+
+/* Layout & Spacing */
+body {
+  margin: 40px;
+  line-height: 1.6;
+}
+
+h2 {
+  margin-top: 40px;
 }
 
 
