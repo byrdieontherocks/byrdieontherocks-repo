@@ -137,7 +137,7 @@
 
     </div>
 
-
+<div class="container my-5">
     <!-- Photo Gallery – Longdong Highlights Before Longdong -->
     <section id="taipei-gallery" class="container my-5">
       <h2 class="text-center mb-4">Longdong Climbing Highlights</h2>
@@ -186,7 +186,7 @@
             <figcaption
               class="position-absolute bottom-0 start-0 w-100 bg-dark bg-opacity-75 text-white text-center py-1 small"
               style="font-family:'Roboto Slab',serif;">
-              Scenic Longdong views
+             Longdong views
             </figcaption>
           </figure>
         </div>
@@ -627,6 +627,7 @@
     <div class="content-blog mb-5" style="font-weight: 500;">
       ByrdieOnTheRocks :)
     </div>
+</div>
   </main>
   <!-- End of container-->
 
@@ -716,7 +717,7 @@
       window.scrollTo({ top: 0, behavior: 'smooth' });
     });
 
-    // Disclaimer popup 
+    // Disclaimer popup logic (the other popup)
     window.onload = function () {
       const disclaimerPopup = document.getElementById('popup');
       const closeDisclaimerBtn = document.getElementById('close-btn');
@@ -763,7 +764,7 @@
       }
     });
 
-    // Manual close button popup
+    // Manual close button for KL popup
     if (closeReadMoreBtn) {
       closeReadMoreBtn.addEventListener('click', () => {
         readMorePopup.style.display = 'none';
@@ -772,7 +773,7 @@
     }
 
     // ================================
-    // Taiwan popup logic
+    // Taiwan popup logic (new popup)
     const taiwanPopup = document.getElementById('popupBoxTaiwan');
     const closeTaiwanBtn = document.getElementById('closePopupTaiwan');
     const taiwanTriggerLink = document.getElementById('taiwanLink');
