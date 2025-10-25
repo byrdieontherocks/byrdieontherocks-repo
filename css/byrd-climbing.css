@@ -1084,6 +1084,37 @@ letter-spacing: 1px;
   font-weight: 350;
 }
 
+/* Japan Climbing Trip Part 1  */
+/* Default for desktop */
+#pre-ogawayama-highlights figure img {
+  width: 100%;
+  height: 300px;
+  object-fit: cover;
+  object-position: bottom;
+}
+
+/* Desktop: limit height to keep images smaller */
+#pre-ogawayama-highlights figure img {
+  width: 100%;
+  height: auto; 
+  max-height: 450px; /* smaller height for desktop */
+  object-fit: cover;
+  object-position: bottom;
+}
+
+/* On smaller screens, make images taller and full width */
+@media (max-width: 767px) {
+  #pre-ogawayama-highlights .col-6 {
+    flex: 0 0 100%; 
+    max-width: 100%;
+  }
+
+  #pre-ogawayama-highlights figure img {
+    height: 400px;  /* taller height for mobile */
+    width: 100%;    /* full width of the column */
+  }
+}
+
 
 
 
