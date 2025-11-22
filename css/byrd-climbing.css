@@ -1146,6 +1146,22 @@ letter-spacing: 1px;
   }
 }
 
+/** Part 2 section **/
+
+/**  Gallery section **/
+ #ogawayama-gallery-h figure img {
+  width: 100%;
+  max-height: 400px;
+  object-fit: cover;
+  display: block;
+}
+
+@media (max-width: 767px) {
+  .ogawayama-gallery figure img {
+    max-height: 400px; /* smaller height on mobile */
+  }
+}
+
 
 
 
