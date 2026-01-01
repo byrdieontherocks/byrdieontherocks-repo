@@ -1162,6 +1162,144 @@ letter-spacing: 1px;
   }
 }
 
+/** Best Climbing Spots in  Thailand **/
+.blog-subheading h3 {
+  font-size: 1.2rem;
+  font-weight: 500;
+  margin-top: 1.5rem;
+  margin-bottom: 0.5rem;
+  color: #11324d;
+}
+
+@media (max-width: 767px) {
+  .blog-subheading h3 {
+    font-size: 1.05rem;
+  }
+}
+/* ===============================
+   Jump List Card
+================================ */
+
+.climb-jump-wrapper {
+  margin: 2.5rem 0;
+  padding: 0;
+  background-color: #ffffff;
+  border: 1px solid #e3e8ee;
+  border-radius: 12px;
+  box-shadow: 0 4px 12px rgba(0, 0, 0, 0.04);
+  overflow: hidden; 
+}
+
+/* ===============================
+   Title block
+================================ */
+
+.climb-jump-title {
+  margin: 0;
+  padding: 0.9rem 1.5rem;
+  font-size: 1.2rem;
+  font-weight: 600;
+  color: #11324d;
+  background-color: #f1f5f9;
+  border-bottom: 1px solid #e3e8ee;
+}
+
+/* ===============================
+   List container
+================================ */
+
+.climb-jump-list {
+  list-style: none;
+  padding: 1.25rem 1.5rem;
+  margin: 0;
+}
+
+/* ===============================
+   List items
+================================ */
+
+.climb-jump-list li {
+  margin: 0; /* spacing handled by link padding */
+}
+
+/* ===============================
+   Links (full-width hover)
+================================ */
+
+.climb-jump-list a {
+  display: block;                 /* full width clickable */
+  padding: 0.45rem 0.5rem;
+  border-radius: 6px;
+  color: #11324d;
+  text-decoration: none;
+  font-weight: 400;
+  transition: background-color 0.2s ease, color 0.2s ease;
+}
+
+.climb-jump-list a:hover {
+  background-color: #f1f5f9;
+  color: #0b2238;
+  text-decoration: none;
+}
+
+/* Keyboard accessibility */
+.climb-jump-list a:focus-visible {
+  outline: none;
+  background-color: #e7eef6;
+  color: #0b2238;
+}
+
+/* ===============================
+   Mobile tuning
+================================ */
+
+@media (max-width: 767px) {
+  .climb-jump-title {
+    font-size: 1.05rem;
+    padding: 0.75rem 1.25rem;
+  }
+
+  .climb-jump-list {
+    padding: 1rem 1.25rem;
+  }
+
+  .climb-jump-list a {
+    font-size: 0.95rem;
+    padding: 0.45rem 0.25rem;
+  }
+}
+
+/* ===============================
+  Gallery 
+================================ */
+
+/* Simple climbing photo gallery */
+.climbing-photo-gallery figure {
+  margin: 0;
+  text-align: center;
+}
+
+.climbing-photo-gallery img {
+  display: block;
+  width: 100%;
+  height: auto;
+}
+
+/* Caption */
+.climbing-photo-gallery .figcaption-text {
+  margin-top: 0.3rem;
+  font-size: 0.8rem;
+  color:#0b2238;
+}
+
+/* Mobile */
+@media (max-width: 767px) {
+  .climbing-photo-gallery .figcaption-text {
+    font-size: 0.75rem;
+  }
+}
+
+
 
 
 
