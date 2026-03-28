@@ -1,0 +1,1580 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+
+	<meta charset="UTF-8">
+	<meta name="viewport" content="width=device-width, initial-scale=1">
+	<meta name="description"
+		content="Trying ice climbing in Hokkaido for the first time? Byrdie shares the experience of climbing frozen waterfalls and learning ice climbing as a beginner in winter conditions.">
+	<title>Ice Climbing in Hokkaido: First Frozen Waterfall Climb Experience | ByrdieOnTheRocks</title>
+	<link rel="icon" type="image/png" href="images/byrdie_favicon.png" sizes="512x512">
+	<link rel="icon" type="image/png" href="images/byrdie_favicon.png" sizes="32x32">
+	<link rel="icon" type="image/png" href="images/byrdie_favicon.png" sizes="16x16">
+
+	<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "BlogPosting",
+  "headline": "My First Ice Climbing Trip in Hokkaido Part 2: Frozen Waterfalls and First Climb Experience",
+  "author": {
+    "@type": "Person",
+    "name": "ByrdieOnTheRocks"
+  },
+  "datePublished": "2026-02-10",
+  "image": [
+    "https://byrdieontherocks.com/images/hokkaido-ice-climbing.jpg"
+  ],
+  "description": "A beginner’s first ice climbing experience in Hokkaido, Japan, climbing frozen waterfalls and learning ice climbing for the first time.",
+  "mainEntityOfPage": {
+    "@type": "WebPage",
+    "@id": "https://byrdieontherocks.com/hokkaido-ice-climbing"
+  }
+}
+</script>
+
+	<!-- Google tag (gtag.js) -->
+	<script>
+		if (location.hostname !== "localhost" && location.hostname !== "127.0.0.1") {
+			var s = document.createElement("script");
+			s.async = true;
+			s.src = "https://www.googletagmanager.com/gtag/js?id=G-473351V9VN";
+			document.head.appendChild(s);
+
+			window.dataLayer = window.dataLayer || [];
+			function gtag() { dataLayer.push(arguments); }
+			gtag('js', new Date());
+			gtag('config', 'G-473351V9VN');
+		}
+	</script>
+
+
+	<!-- Bootstrap 5 CSS link -->
+	<link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.3/dist/css/bootstrap.min.css" rel="stylesheet">
+	<link rel="stylesheet" href="css/byrd-climbing.css">
+
+	<!-- Kanit font -->
+	<link rel="preconnect" href="https://fonts.googleapis.com">
+	<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+	<link href="https://fonts.googleapis.com/css2?family=Kanit:wght@100;200;300;400;500;600;700;800;900&display=swap"
+		rel="stylesheet">
+
+	<!-- Oxygen font -->
+	<link href="https://fonts.googleapis.com/css2?family=Oxygen:wght@300;400;700&display=swap" rel="stylesheet">
+
+	<!-- Roboto Slab font -->
+	<link
+		href="https://fonts.googleapis.com/css2?family=Roboto+Slab:wght@100;200;300;400;500;600;700;800;900&display=swap"
+		rel="stylesheet">
+
+	<!-- Open Graph meta tags -->
+	<meta property="og:title" content="Ice Climbing in Hokkaido: Frozen Waterfalls and First Climb Experience">
+	<meta property="og:description"
+		content="My first ice climbing experience in Hokkaido, climbing frozen waterfalls and learning how to use crampons and ice axes as a beginner in winter conditions.">
+	<meta property="og:image" content="https://byrdieontherocks.com/images/hokkaido-ice-climbing.jpg">
+	<meta property="og:url" content="https://byrdieontherocks.com/hokkaido-ice-climbing">
+	<meta property="og:type" content="article">
+	<meta property="og:site_name" content="ByrdieOnTheRocks">
+	<meta property="og:locale" content="en_US">
+	<meta property="article:author" content="ByrdieOnTheRocks">
+	<meta property="article:published_time" content="2026-03-28">
+
+
+	<!-- Bot for page index-->
+	<meta name="robots" content="index, follow">
+
+</head>
+
+<body>
+	<header>
+		<!-- Nav section -->
+		<nav id="header-nav" class="navbar navbar-expand-lg navbar-light bg-light">
+			<div class="container">
+				<a href="index" class="navbar-brand">
+					<img src="images/byrdie_updated_logo.svg" alt="logo" id="logo-img" class="img-fluid">
+				</a>
+				<button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#collapsable-nav"
+					aria-controls="collapsable-nav" aria-expanded="false" aria-label="Toggle navigation">
+					<span class="navbar-toggler-icon"></span>
+				</button>
+
+				<div id="collapsable-nav" class="collapse navbar-collapse">
+					<ul id="nav-list" class="navbar-nav ms-auto">
+						<li class="nav-item">
+							<a href="my-blogs" class="nav-link text-center">
+								<svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" fill="currentColor"
+									class="bi bi-pen-fill" viewBox="0 0 16 16">
+									<path
+										d="m13.498.795.149-.149a1.207 1.207 0 1 1 1.707 1.708l-.149.148a1.5 1.5 0 0 1-.059 2.059L4.854 14.854a.5.5 0 0 1-.233.131l-4 1a.5.5 0 0 1-.606-.606l1-4a.5.5 0 0 1 .131-.232l9.642-9.642a.5.5 0 0 0-.642.056L6.854 4.854a.5.5 0 1 1-.708-.708L9.44.854A1.5 1.5 0 0 1 11.5.796a1.5 1.5 0 0 1 1.998-.001" />
+								</svg>
+								<span>Blog</span>
+							</a>
+						</li>
+						<li class="nav-item">
+							<a href="coming-soon-2" class="nav-link text-center">
+								<svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" fill="currentColor"
+									class="bi bi-camera" viewBox="0 0 16 16">
+									<path
+										d="M15 12a1 1 0 0 1-1 1H2a1 1 0 0 1-1-1V6a1 1 0 0 1 1-1h1.172a3 3 0 0 0 2.12-.879l.83-.828A1 1 0 0 1 6.827 3h2.344a1 1 0 0 1 .707.293l.828.828A3 3 0 0 0 12.828 5H14a1 1 0 0 1 1 1zM2 4a2 2 0 0 0-2 2v6a2 2 0 0 0 2 2h12a2 2 0 0 0 2-2V6a2 2 0 0 0-2-2h-1.172a2 2 0 0 1-1.414-.586l-.828-.828A2 2 0 0 0 9.172 4z" />
+									<path
+										d="M8 11a2.5 2.5 0 1 1 0-5 2.5 2.5 0 0 1 0 5m0 1a3.5 3.5 0 1 0 0-7 3.5 3.5 0 0 0 0 7M3 6.5a.5.5 0 1 1-1 0 .5.5 0 0 1 1 0" />
+								</svg>
+								<span>Photography </span>
+							</a>
+						</li>
+						<li class="nav-item">
+							<a href="about-me" class="nav-link text-center">
+								<svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" fill="currentColor"
+									class="bi bi-file-person-fill" viewBox="0 0 16 16">
+									<path
+										d="M12 0H4a2 2 0 0 0-2 2v12a2 2 0 0 0 2 2h8a2 2 0 0 0 2-2V2a2 2 0 0 0-2-2m-1 7a3 3 0 1 1-6 0 3 3 0 0 1 6 0m-3 4c2.623 0 4.146.826 5 1.755V14a1 1 0 0 1-1 1H4a1 1 0 0 1-1-1v-1.245C3.854 11.825 5.377 11 8 11" />
+								</svg>
+								<span>About me </span>
+							</a>
+						</li>
+						<li class="nav-item">
+							<a href="coming-soon-2" class="nav-link text-center">
+								<svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" fill="currentColor"
+									class="bi bi-envelope-paper-heart-fill" viewBox="0 0 16 16">
+									<path fill-rule="evenodd" d="m3 7.5 3.5 2L8 8.75l1.5.75 3.5-2v-6A1.5 1.5 0 0 0 11.5 0h-7A1.5 1.5 0 0 0 3 1.5z
+     M2 3.133l-.941.502A2 2 0 0 0 0 5.4v.313l2 1.173z
+     M14 6.886l2-1.173V5.4a2 2 0 0 0-1.059-1.765L14 3.133z
+     M10.307 10.21L16 6.873v6.5z
+     M15.941 14.484L8 10.072.059 14.484A2 2 0 0 0 2 16h12a2 2 0 0 0 1.941-1.516z
+     M5.693 10.21 0 13.372v-6.5z
+     M8 1.982C9 0.664 13.825 3.236 8 7
+     C2.175 3.236 6.336 0.31 8 1.982z" />
+								</svg>
+								<span>Contact me </span>
+							</a>
+						</li>
+					</ul><!-- #nav-list -->
+				</div><!-- .collapse .navbar-collapse -->
+			</div><!-- .container -->
+		</nav><!-- #header-nav -->
+	</header>
+
+	<div>
+		<h1 class="blog-title text-center">
+			My First Ice Climbing Trip in Hokkaido <br>
+			Frozen Waterfalls, Winter Hike & First Ice Climb (Part 2)
+		</h1>
+	</div>
+	<div class="blog-date text-center">
+		by ByrdieOnTheRocks / February 2026
+	</div>
+
+	<main>
+		<div class="container-fluid p-0" style="position: relative;">
+			<div class="bg-light p-4 d-flex flex-column flex-lg-row align-items-center justify-content-center">
+				<img src="images/hokkaido-ice-climbing.jpg" alt="ByrdieOnTheRocks ice climbing in Hokkaido, Japan"
+					class="full-width-img" style="width: 100vw; height: auto; object-fit: cover;">
+			</div>
+		</div>
+
+
+		<!-- Don't Move Below-->
+		<div class="container my-4">
+			<!-- Don't Move Above-->
+
+			<!--  Highlights -->
+			<section id="pre-ogawayama-highlights" class="container my-5">
+				<h2 class="text-center mb-4">
+					Hokkaido Ice Climbing Moments<br>
+					<span style="font-weight: 400;">Frozen Waterfall Highlights</span>
+				</h2>
+
+				<div class="row g-4">
+
+					<!-- Highight Image 1 -->
+					<div class="col-6">
+						<figure class="position-relative overflow-hidden">
+							<img src="images/byrdieontherocks_hokkaido_ice_climbing1.jpg"
+								alt="first time ice climbing in Hokkaido frozen waterfall"
+								style="width: 100%; height: auto; object-fit: cover; object-position: bottom;"
+								loading="lazy">
+							<figcaption
+								class="position-absolute bottom-0 start-0 w-100 bg-dark bg-opacity-75 text-white text-center py-1 small"
+								style="font-family:'Roboto Slab', serif;">
+								First ice climb
+							</figcaption>
+						</figure>
+					</div>
+
+					<!-- Highight Image 2 -->
+					<div class="col-6">
+						<figure class="position-relative overflow-hidden">
+							<img src="images/ice_climbing_hokkaiodo_japan2.jpg"
+								alt="beginner learning ice climbing technique Hokkaido Japan"
+								style="width: 100%; height: auto; object-fit: cover; object-position: bottom;"
+								loading="lazy">
+							<figcaption
+								class="position-absolute bottom-0 start-0 w-100 bg-dark bg-opacity-75 text-white text-center py-1 small"
+								style="font-family:'Roboto Slab', serif;">
+								ByrdieOnTheIce
+							</figcaption>
+						</figure>
+					</div>
+
+					<!-- Highight Image 3 -->
+					<div class="col-6">
+						<figure class="position-relative overflow-hidden">
+							<img src="images/ice_climbing_hokkaiodo_japan3.jpg"
+								alt="climbing frozen waterfall in Sounkyo Hokkaido Japan"
+								style="width: 100%; height: auto; object-fit: cover; object-position: bottom;"
+								loading="lazy">
+							<figcaption
+								class="position-absolute bottom-0 start-0 w-100 bg-dark bg-opacity-75 text-white text-center py-1 small"
+								style="font-family:'Roboto Slab', serif;">
+								Frozen waterfall climb
+							</figcaption>
+						</figure>
+					</div>
+
+					<!-- Highight Image 4 -->
+					<div class="col-6">
+						<figure class="position-relative overflow-hidden">
+							<img src="images/ice_climbing_hokkaiodo_japan4.jpg"
+								alt="ice climbing experience winter mountains Hokkaido Japan"
+								style="width: 100%; height: auto; object-fit: cover; object-position: bottom;"
+								loading="lazy">
+							<figcaption
+								class="position-absolute bottom-0 start-0 w-100 bg-dark bg-opacity-75 text-white text-center py-1 small"
+								style="font-family:'Roboto Slab', serif;">
+								Winter climbing vibes
+							</figcaption>
+						</figure>
+					</div>
+
+				</div>
+
+			</section>
+
+
+			<!-- Jump List Navigation -->
+			<div class="climb-jump-wrapper">
+
+				<p class="climb-jump-title">🧭 Jump to a section</p>
+
+				<ul class="climb-jump-list">
+					<li><a href="#ice-climbing-intro">Ice climbing intro</a></li>
+					<li><a href="#sounkyo-location">Sounkyo location</a></li>
+					<li><a href="#day-one-obako">Day 1 in Obako</a></li>
+					<li><a href="#learning-ice-tools">Learning the basics</a></li>
+					<li><a href="#day-two-conditions">Day 2 conditions</a></li>
+					<li><a href="#final-thoughts">Final thoughts</a></li>
+				</ul>
+
+			</div>
+
+			<!-- Greeting Section -->
+			<section>
+
+				<div class="blog-h2 h2-center">
+					<h2 class="para-1 mt-3">Welcome to ByrdieOnTheRocks</h2>
+				</div>
+
+				<div class="mb-3 content-blog justified-text">
+					Hello friends, climbers, and curious wanderers. Welcome back to ByrdieOnTheRocks.
+				</div>
+
+				<div class="mb-3 content-blog justified-text">
+					If you have been here before, you already know I like to start with a short intro and a few friendly
+					notes.
+					If you are new here, hi and welcome.
+				</div>
+
+				<div class="mb-3 content-blog justified-text">
+					<span class="text-italic text-underline" style="font-weight: 500;">
+						This is my little corner of the internet where I share travel stories, climbing experiences, and
+						personal reflections from a beginner climber who is still learning along the way. I am not a
+						professional climber and I do not write technical guides. What I share here is the real feeling
+						of discovering new places as someone who loves climbing, traveling, and learning web development
+						at the same time. It is a mix of chalk, code, curiosity, and honest experiences.
+					</span>
+				</div>
+
+				<div class="mb-3 content-blog justified-text">
+					I sometimes include personal tips, but please always check the weather, consult certified guides,
+					and put safety first when planning any outdoor climbing trip.
+				</div>
+
+			</section>
+
+
+
+			<!-- Tropical Climber Section -->
+			<section>
+				<div id="taiwanLink" class="blog-h2 h2-center">
+					<h2 class="para-1 mt-3">Ice Climbing as a Tropical Climber</h2>
+				</div>
+
+
+				<div class="mb-3 content-blog justified-text">
+					Climbing ice is not a common activity for climbers from tropical regions, so this trip introduced me
+					to many completely new experiences. It exposed me to a different style of climbing, unfamiliar
+					weather conditions, and outdoor activities during the winter season.
+				</div>
+
+				<div class="mb-3 content-blog justified-text">
+					Coming from a place where climbing usually means warm rock and sunny weather, stepping into a frozen
+					winter landscape felt like entering a completely different world of climbing.
+
+				</div>
+
+
+
+				<!-- Floating popup -->
+				<div id="popupBoxTaiwan">
+					<span id="closePopupTaiwan">&times;</span>
+					<p style="font-size: 18px;">
+						<strong>Want to see <br>how this trip started?</strong>
+					</p>
+					<p>You can read Part 1 covering travel planning and preparation here</p>
+					<a href="ice-climbing-hokkaido-part-1" class="popup-btn">Read Part 1</a>
+		</div>
+		</section>
+
+		<!-- Part 2 Introduction Section -->
+		<section>
+			<div class="blog-h2 h2-center">
+				<h2 id="ice-climbing-intro" class="para-1 mt-3">Part 2 of My Hokkaido Ice Climbing Journey
+				</h2>
+			</div>
+			<div class="mb-3 content-blog justified-text">
+				This blog is Part 2 of my Hokkaido ice climbing trip, where I share my experience of trying ice
+				climbing in Japan for the first time.
+			</div>
+
+			<div class="mb-3 content-blog justified-text">
+				If you discovered this blog as a new climber curious about ice climbing in Hokkaido, or if you are
+				an experienced climber interested in learning more about the area, you can read
+				<a href="ice-climbing-hokkaido-part-1"
+					title="Hokkaido ice climbing travel planning and preparation">
+					Part 1 of the trip
+				</a>
+				where I shared details about travel planning, preparation, and how I ended up joining this adventure
+				as an amateur climber.
+			</div>
+			<div class="mb-4 content-blog justified-text" style="line-height: 1.8;">
+				<p style="margin-bottom: 10px; font-weight: 400; font-size: 1.05rem;">
+					In Part 1, I covered:
+				</p>
+
+				<ul style="padding-left: 20px; margin-bottom: 0;">
+					<li style="margin-bottom: 6px;">
+						Travel planning
+					</li>
+					<li style="margin-bottom: 6px;">
+						Preparation for winter climbing
+					</li>
+					<li style="margin-bottom: 6px;">
+						Getting to Hokkaido
+					</li>
+					<li>
+						What it was like arriving with no prior ice climbing experience
+					</li>
+				</ul>
+			</div>
+			<!-- Part 1 Gallery -->
+			<div class="climbing-photo-gallery container my-3">
+				<div class="row g-3">
+
+					<div class="col-6 col-md-3">
+						<figure>
+							<img src="images/sapporo_to_asahikawa1.jpg" class="img-fluid"
+								alt="bus ride from Sapporo to Asahikawa winter Hokkaido" loading="lazy">
+							<figcaption class="figcaption-text">Bus to Asahikawa</figcaption>
+						</figure>
+					</div>
+
+					<div class="col-6 col-md-3">
+						<figure>
+							<img src="images/hokkaido_ice_climbing1.jpg" class="img-fluid"
+								alt="snowy road trip through mountains Hokkaido Japan" loading="lazy">
+							<figcaption class="figcaption-text">Snowy road trip</figcaption>
+						</figure>
+					</div>
+
+					<div class="col-6 col-md-3">
+						<figure>
+							<img src="images/sapporo_to_asahikawa3.jpg" class="img-fluid"
+								alt="winter road in Hokkaido with snow covered landscape" loading="lazy">
+							<figcaption class="figcaption-text">Quiet winter roads</figcaption>
+						</figure>
+					</div>
+
+					<div class="col-6 col-md-3">
+						<figure>
+							<img src="images/hokkaido_climbing_gear2.jpg" class="img-fluid"
+								alt="ice climbing gear preparation crampons axes gloves Hokkaido" loading="lazy">
+							<figcaption class="figcaption-text">Learning the gear</figcaption>
+						</figure>
+					</div>
+
+				</div>
+			</div>
+
+		</section>
+
+		<!--Part 2 Expectation Section -->
+		<section>
+			<div class="blog-h2  h2-center">
+				<h2 id="how-i-ended-up" class="para-1 mt-3">What to Expect in Part 2</h2>
+			</div>
+			<div class="mb-3 content-blog justified-text">
+				Part 2 focuses more on the actual climbing experience and what it was like trying ice climbing in
+				Japan for the very first time.
+			</div>
+
+
+			<div class="mb-3 content-blog justified-text">
+				As I briefly mentioned earlier, this trip introduced me not only to ice climbing but also to a small
+				taste of alpine-style activities, including hiking through snow and approaching frozen waterfalls in
+				winter conditions.
+			</div>
+
+			<div class="mb-3 content-blog justified-text">
+				For someone with no prior experience climbing ice, the entire experience felt completely new and
+				surprisingly exciting. It opened my eyes to a different side of climbing that I had never imagined
+				myself enjoying before.
+			</div>
+		</section>
+
+		<!--About our Guide Section -->
+		<section>
+			<div class="blog-h2  h2-center">
+				<h2 class="para-1 mt-3">About Our Guide and Trip Planning</h2>
+			</div>
+			<div class="mb-3 content-blog justified-text">
+				This two day climbing trip was carefully organized and beautifully planned by our certified
+				instructor and guide, QX. You can find more information about him here. I also shared more details
+				about him in
+				<a href="taiwan-climbing-longdong-keelung"
+					title="Climbing in Longdong, Taiwan guide and experience">
+					my Taiwan climbing blog
+				</a>.
+			</div>
+
+
+			<div class="mb-3 content-blog justified-text">
+				The itinerary was designed for beginners like us who had no previous ice climbing experience. The
+				goal of the trip was to give us a proper introduction to ice climbing because climbing ice is very
+				different from rock climbing. Some people may enjoy it immediately while others may find it
+				challenging, not only because of the climbing itself but also because of the winter conditions.
+			</div>
+
+			<div class="mb-3 content-blog justified-text">
+				Unlike rock climbing, you spend long hours outside in temperatures below freezing, sometimes with
+				wind and snow. If you are not prepared, the experience can quickly become uncomfortable.
+			</div>
+
+
+			<div class="mb-3 content-blog justified-text">
+				From my personal experience, I strongly recommend doing research on winter gear before coming. One
+				thing I wish I had prepared better was waterproof gloves. Bringing two or even three pairs would
+				make a huge difference and make the climbing experience much more enjoyable.
+			</div>
+
+		</section>
+
+		<!--Sounkyo Section -->
+		<section>
+			<div class="blog-h2  h2-center">
+				<h2 id="sounkyo-location" class="para-1 mt-3">Ice Climbing Location in Sounkyo</h2>
+			</div>
+			<div class="mb-3 content-blog justified-text">
+				The ice climbing location is in the
+				<a href="https://www.japan-guide.com/e/e6777.html" target="_blank" rel="noopener noreferrer"
+					title="Sounkyo Gorge travel guide and winter scenery">
+					Sounkyo area
+				</a>, which is also well known for its onsen. However,
+				we stayed in
+				<a href="https://en.wikipedia.org/wiki/Asahikawa" target="_blank" rel="noopener noreferrer"
+					title="Asahikawa city in Hokkaido, Japan">
+					Asahikawa
+				</a>, which is roughly 70 km away and about a one and a half hour drive depending
+				on weather conditions.
+			</div>
+
+			<div class="mb-3 content-blog justified-text">
+				I shared more details about my stay in Asahikawa in 
+				<a href="ice-climbing-hokkaido-part-1.html"
+					title="Hokkaido ice climbing travel planning and preparation">
+					Part 1 this blog
+				</a>.
+			</div>
+			<div class="mb-3 content-blog justified-text">
+				Personally, I think staying in Asahikawa is the better choice because it is much more convenient in
+				terms of food options and transportation back to larger cities like Sapporo. Sounkyo is beautiful
+				and relaxing, but it is very quiet and quite small. From what I saw, there was only one convenience
+				store in the area.
+			</div>
+
+			<div class="mb-3 content-blog justified-text">
+				Hotel prices can also be quite high during the winter season. Because of that, staying in Asahikawa
+				and traveling to the climbing locations with QX each day worked very well for us.
+			</div>
+
+			<!-- Climbing Location Gallery -->
+
+			<div class="climbing-photo-gallery container my-3">
+				<div class="row g-3">
+
+					<div class="col-6 col-md-3">
+						<figure>
+							<img src="images/hokkaido-ice-climbing_part1-3.jpg" class="img-fluid"
+								alt="large frozen waterfall in Sounkyo Hokkaido winter" loading="lazy">
+							<figcaption class="figcaption-text">Big frozen falls</figcaption>
+						</figure>
+					</div>
+
+					<div class="col-6 col-md-3">
+						<figure>
+							<img src="images/hokkaido_winter_climbing.jpg" class="img-fluid"
+								alt="small frozen stream in snowy Hokkaido valley" loading="lazy">
+							<figcaption class="figcaption-text">Frozen little stream</figcaption>
+						</figure>
+					</div>
+
+					<div class="col-6 col-md-3">
+						<figure>
+							<img src="images/hokkaido_winter_climbing1.jpg" class="img-fluid"
+								alt="snowy valley landscape in Hokkaido winter mountains" loading="lazy">
+							<figcaption class="figcaption-text">Snowy quiet valley</figcaption>
+						</figure>
+					</div>
+
+					<div class="col-6 col-md-3">
+						<figure>
+							<img src="images/hokkaido_winter_climbing3.jpg" class="img-fluid"
+								alt="multiple small frozen waterfalls in Sounkyo area Hokkaido" loading="lazy">
+							<figcaption class="figcaption-text">Many frozen falls</figcaption>
+						</figure>
+					</div>
+
+				</div>
+			</div>
+		</section>
+
+		<!-- A Scenic Winter Section -->
+		<section>
+			<div class="blog-h2 h2-center">
+				<h2 id="getting-around" class="para-1 mt-3">
+					A Scenic Winter Drive Through the Mountains
+
+				</h2>
+			</div>
+
+			<div class="mb-3 content-blog justified-text">
+				For me, the drive itself was also one of the highlights of the trip.
+			</div>
+
+			<div class="mb-3 content-blog justified-text">
+				Coming from a tropical country, I rarely experience this type of winter scenery. Sitting in the car
+				and driving through the snowy mountains of Japan felt incredibly peaceful. The snow covered trees,
+				quiet roads, and white mountain landscape created a calm atmosphere that is difficult to describe.
+			</div>
+
+			<div class="mb-3 content-blog justified-text">
+				It was one of those moments where you simply sit quietly and enjoy the view.
+			</div>
+		</section>
+
+		<!-- Ice Climbing Day 1 Section -->
+		<section>
+			<div class="blog-h2 h2-center">
+				<h2 id="day-one-obako" class="para-1 mt-3">
+					Day One Ice Climbing in Obako
+				</h2>
+			</div>
+
+			<div class="mb-3 content-blog justified-text">
+				On the first day we climbed in an area called
+				<a href="https://www.japan-guide.com/e/e6777.html" target="_blank" rel="noopener noreferrer"
+					title="Sounkyo Gorge travel guide and winter scenery">
+					Obako
+				</a>, which is one of the most beautiful and popular
+				spots in Sounkyo.
+			</div>
+
+			<div class="mb-3 content-blog justified-text">
+				The area looks like a narrow valley with steep cliffs on both sides. In the summer there is
+				actually
+				a river running through the middle. During winter the river becomes partially frozen, creating
+				an
+				incredible landscape of snow, ice, and frozen waterfalls.
+			</div>
+
+			<div class="mb-3 content-blog justified-text">
+				I have traveled to snowy countries before, but that was before I became interested in outdoor
+				activities. Visiting a place like this again now feels completely different. This time I looked
+				around and could not stop appreciating the landscape. It was simply beautiful.
+			</div>
+
+
+
+			<!-- Day One Gallery -->
+
+			<div class="climbing-photo-gallery container my-3">
+				<div class="row g-3">
+
+					<div class="col-6 col-md-3">
+						<figure>
+							<img src="images/obako_hokkaido_ice_climbing.jpg" class="img-fluid"
+								alt="Obako ice climbing area in Sounkyo Hokkaido winter" loading="lazy">
+							<figcaption class="figcaption-text">Obako ice area</figcaption>
+						</figure>
+					</div>
+
+					<div class="col-6 col-md-3">
+						<figure>
+							<img src="images/obako_hokkaido_ice_climbing1.jpg" class="img-fluid"
+								alt="snow forest near Obako climbing location Hokkaido Japan" loading="lazy">
+							<figcaption class="figcaption-text">Snow forest walk</figcaption>
+						</figure>
+					</div>
+
+					<div class="col-6 col-md-3">
+						<figure>
+							<img src="images/obako_hokkaido_ice_climbing2.jpg" class="img-fluid"
+								alt="exploring snowy valley in Obako Sounkyo Hokkaido" loading="lazy">
+							<figcaption class="figcaption-text">Exploring snowy valley</figcaption>
+						</figure>
+					</div>
+
+					<div class="col-6 col-md-3">
+						<figure>
+							<img src="images/obako_hokkaido_ice_climbing3.jpg" class="img-fluid"
+								alt="beginner ice climber training in Obako Hokkaido winter" loading="lazy">
+							<figcaption class="figcaption-text">Alpine training day</figcaption>
+						</figure>
+					</div>
+
+				</div>
+
+			</div>
+		</section>
+
+		<!--Hiking Section -->
+		<section>
+			<div class="blog-h2  h2-center">
+				<h2 class="para-1 mt-3">Hiking Into the Frozen Valley</h2>
+			</div>
+			<div class="mb-3 content-blog justified-text">
+				We parked the car near the entrance, which was very convenient. From there we started our first
+				lesson of the day which was hiking through snow while carrying climbing gear.
+			</div>
+
+			<div class="mb-3 content-blog justified-text">
+				Before starting the hike we put on our harness and prepared our gear. One important lesson I
+				learned
+				very quickly was to always keep your gloves on.
+			</div>
+
+			<div class="mb-3 content-blog justified-text">
+				We followed the path that other climbers had already made in the snow. Having proper
+				mountaineering
+				boots was very important because they are designed to work with crampons for ice climbing.
+			</div>
+
+			<!-- Hiking Into the Valley Gallery -->
+			<div class="climbing-photo-gallery container my-3">
+				<div class="row g-3">
+
+					<div class="col-6 col-md-3">
+						<figure>
+							<img src="images/hokkaido_ice_climbing_hike.jpg" class="img-fluid"
+								alt="preparing for ice climbing hike in snowy Hokkaido Japan" loading="lazy">
+							<figcaption class="figcaption-text">Getting ready outside</figcaption>
+						</figure>
+					</div>
+
+					<div class="col-6 col-md-3">
+						<figure>
+							<img src="images/hokkaido_ice_climbing_hike1.jpg" class="img-fluid"
+								alt="starting winter hike toward frozen waterfall climbing area Hokkaido"
+								loading="lazy">
+							<figcaption class="figcaption-text">Journey begins here</figcaption>
+						</figure>
+					</div>
+
+					<div class="col-6 col-md-3">
+						<figure>
+							<img src="images/hokkaido_ice_climbing_hike2.jpg" class="img-fluid"
+								alt="walking through snow toward ice climbing spot in Hokkaido mountains"
+								loading="lazy">
+							<figcaption class="figcaption-text">Walking into winter</figcaption>
+						</figure>
+					</div>
+
+					<div class="col-6 col-md-3">
+						<figure>
+							<img src="images/hokkaido_ice_climbing_hike3.jpg" class="img-fluid"
+								alt="sunny winter day in snowy Hokkaido mountain landscape" loading="lazy">
+							<figcaption class="figcaption-text">Sunny winter day</figcaption>
+						</figure>
+					</div>
+
+				</div>
+			</div>
+
+		</section>
+
+		<!-- First Frozen Waterfall Section -->
+		<section>
+			<div class="blog-h2  h2-center">
+				<h2 class="para-1 mt-3">Approaching the First Frozen Waterfall</h2>
+			</div>
+			<div class="mb-3 content-blog justified-text">
+				Our first climbing spot was less than ten minutes away, but the walk itself was already amazing.
+			</div>
+
+			<div class="mb-3 content-blog justified-text">
+				I was excited the entire time. Seeing snow sitting on top of rocks in the partially frozen
+				river,
+				forming shapes that looked like bubbles, felt almost peaceful and meditative.
+			</div>
+			<div class="mb-3 content-blog justified-text">
+				Then we saw the first frozen waterfall.
+			</div>
+
+			<div class="mb-3 content-blog justified-text">
+				Seeing a frozen waterfall up close is a completely different experience. At first it looks
+				slippery
+				and impossible to climb because you do not yet understand how the equipment works.
+			</div>
+
+			<div class="mb-3 content-blog justified-text">
+				QX first showed us how to put on the crampons. Surprisingly, this was more difficult than it
+				looked,
+				especially when wearing gloves. At one point I removed my gloves to adjust the crampons, which
+				caused my hands and gloves to get wet. That made the rest of the morning slightly uncomfortable
+				because wet gloves in freezing temperatures are not pleasant.
+
+			</div>
+
+			<!-- Approaching Waterfall Gallery -->
+			<div class="climbing-photo-gallery container my-3">
+				<div class="row g-3">
+
+					<div class="col-6 col-md-3">
+						<figure>
+							<img src="images/obako_waterfall_climbing.jpg" class="img-fluid"
+								alt="frozen valley in Obako Sounkyo Hokkaido winter" loading="lazy">
+							<figcaption class="figcaption-text">Frozen valley view</figcaption>
+						</figure>
+					</div>
+
+					<div class="col-6 col-md-3">
+						<figure>
+							<img src="images/obako_waterfall_climbing1.jpg" class="img-fluid"
+								alt="frozen stream in Obako ice climbing area Hokkaido" loading="lazy">
+							<figcaption class="figcaption-text">Frozen stream crossing</figcaption>
+						</figure>
+					</div>
+
+					<div class="col-6 col-md-3">
+						<figure>
+							<img src="images/obako_waterfall_climbing2.jpg" class="img-fluid"
+								alt="snow bubbles forming on rocks in frozen river Hokkaido" loading="lazy">
+							<figcaption class="figcaption-text">Snow bubble rock</figcaption>
+						</figure>
+					</div>
+
+					<div class="col-6 col-md-3">
+						<figure>
+							<img src="images/obako_waterfall_climbing3.jpg" class="img-fluid"
+								alt="fluffy snow sitting on a rock in frozen river Hokkaido" loading="lazy">
+							<figcaption class="figcaption-text">Pancake snow rock</figcaption>
+						</figure>
+					</div>
+
+					<div class="col-6 col-md-3">
+						<figure>
+							<img src="images/obako_waterfall_climbing6.jpg" class="img-fluid"
+								alt="first frozen waterfall climb in Hokkaido Japan" loading="lazy">
+							<figcaption class="figcaption-text">First frozen waterfall</figcaption>
+						</figure>
+					</div>
+
+					<div class="col-6 col-md-3">
+						<figure>
+							<img src="images/obako_waterfall_climbing7.jpg" class="img-fluid"
+								alt="close up of frozen waterfall ice texture Hokkaido" loading="lazy">
+							<figcaption class="figcaption-text">Close up ice</figcaption>
+						</figure>
+					</div>
+
+					<div class="col-6 col-md-3">
+						<figure>
+							<img src="images/obako_waterfall_climbing4.jpg" class="img-fluid"
+								alt="wearing gloves during ice climbing preparation in cold weather" loading="lazy">
+							<figcaption class="figcaption-text">Gloves are essential</figcaption>
+						</figure>
+					</div>
+
+					<div class="col-6 col-md-3">
+						<figure>
+							<img src="images/obako_waterfall_climbing5.jpg" class="img-fluid"
+								alt="putting on crampons before ice climbing in Hokkaido" loading="lazy">
+							<figcaption class="figcaption-text">Crampon setup time</figcaption>
+						</figure>
+					</div>
+
+				</div>
+			</div>
+		</section>
+
+		<!-- Learning Section -->
+		<section>
+			<div class="blog-h2 h2-center">
+				<h2 id="learning-ice-tools" class="para-1 mt-3">Learning How to Use Crampons and Ice Axes
+				</h2>
+			</div>
+			<div class="mb-3 content-blog justified-text">
+				After securing the crampons to our mountaineering boots, QX gave us a quick introduction to
+				using
+				ice axes.
+			</div>
+
+			<div class="mb-3 content-blog justified-text">
+				Ice climbing is very different from rock climbing. Instead of relying mostly on your hands, you
+				depend heavily on your tools and your foot placements. Learning how to swing the ice axes
+				correctly
+				and place your crampons into the ice requires technique and precision, and understanding some
+				<a href="https://www.alpineinstitute.com/pro-tips-ice-climbing/" target="_blank"
+					rel="noopener noreferrer" title="Ice climbing tips and techniques for beginners">
+					ice climbing basics
+				</a>
+				can really help.
+			</div>
+			<div class="mb-3 content-blog justified-text">
+				Walking on snow is already challenging, but walking on ice with crampons feels completely
+				different.
+				Much of the morning was spent simply learning how to move on the ice and how to kick the
+				crampons
+				into the surface to create stable steps.
+			</div>
+
+			<div class="mb-3 content-blog justified-text">
+				At first it feels very unnatural. Even though the metal points of the crampons are inside the
+				ice,
+				it still feels slippery and unstable. Because of that I relied a lot on my upper body, which
+				also
+				requires learning the correct technique when swinging the ice axes.
+			</div>
+
+			<!-- Learning Ice Climbing Gallery -->
+			<div class="climbing-photo-gallery container my-3">
+				<div class="row g-3">
+
+					<div class="col-6 col-md-3">
+						<figure>
+							<img src="images/learning_ice_climbing_hokkaido.jpg" class="img-fluid"
+								alt="first ice climbing lesson in Hokkaido Japan beginner training" loading="lazy">
+							<figcaption class="figcaption-text">First ice lesson</figcaption>
+						</figure>
+					</div>
+
+					<div class="col-6 col-md-3">
+						<figure>
+							<img src="images/learning_ice_climbing_hokkaido1.jpg" class="img-fluid"
+								alt="learning how to use ice axe for climbing in Hokkaido" loading="lazy">
+							<figcaption class="figcaption-text">Using ice axe</figcaption>
+						</figure>
+					</div>
+
+					<div class="col-6 col-md-3">
+						<figure>
+							<img src="images/learning_ice_climbing_hokkaido2.jpg" class="img-fluid"
+								alt="guide demonstrating proper ice axe technique Hokkaido ice climbing" loading="lazy">
+							<figcaption class="figcaption-text">QX demonstration time</figcaption>
+						</figure>
+					</div>
+
+					<div class="col-6 col-md-3">
+						<figure>
+							<img src="images/learning_ice_climbing_hokkaido3.jpg" class="img-fluid"
+								alt="using ice axe together with crampons for ice climbing technique" loading="lazy">
+							<figcaption class="figcaption-text">Axe crampon coordination</figcaption>
+						</figure>
+					</div>
+
+				</div>
+			</div>
+		</section>
+
+		<!--  Ice Climbing Practice Section -->
+		<section>
+			<div class="blog-h2  h2-center">
+				<h2 class="para-1 mt-3">First Real Ice Climbing Practice</h2>
+
+			</div>
+			<div class="mb-3 content-blog justified-text">
+				Ice climbing is not as straightforward as it might look. Having an experienced guide like QX was
+				extremely important.
+			</div>
+
+			<div class="mb-3 content-blog justified-text">
+				When you swing the ice axes into the ice, large chunks can break off and fall. Because of that
+				the
+				belayer has to stand further away from the base of the waterfall. This is something I noticed
+				immediately. Several times when I hit the ice, large pieces broke off and fell down, sometimes
+				even
+				hitting my helmet and face.
+			</div>
+			<div class="mb-3 content-blog justified-text">
+				For that reason, wearing sunglasses or protective glasses is highly recommended.
+			</div>
+
+			<!--  Ice Climbing Practice Gallery -->
+
+			<div class="climbing-photo-gallery container my-3">
+				<div class="row g-3">
+
+					<div class="col-6 col-md-3">
+						<figure>
+							<img src="images/byrdie_ice_climbing_hokkaido.jpg" class="img-fluid"
+								alt="putting ice climbing skills into practice on frozen waterfall Hokkaido"
+								loading="lazy">
+							<figcaption class="figcaption-text">Time to practice</figcaption>
+						</figure>
+					</div>
+
+					<div class="col-6 col-md-3">
+						<figure>
+							<img src="images/byrdie_ice_climbing_hokkaido1.jpg" class="img-fluid"
+								alt="starting first ice climb on frozen waterfall slippery surface" loading="lazy">
+							<figcaption class="figcaption-text">First real climb</figcaption>
+						</figure>
+					</div>
+
+					<div class="col-6 col-md-3">
+						<figure>
+							<img src="images/byrdie_ice_climbing_hokkaido2.jpg" class="img-fluid"
+								alt="beginner adjusting to ice climbing gear and movement on ice" loading="lazy">
+							<figcaption class="figcaption-text">Still processing it</figcaption>
+						</figure>
+					</div>
+
+					<div class="col-6 col-md-3">
+						<figure>
+							<img src="images/byrdie_ice_climbing_hokkaido3.jpg" class="img-fluid"
+								alt="completing ice climbing practice session in Hokkaido winter" loading="lazy">
+							<figcaption class="figcaption-text">Solid learning session</figcaption>
+						</figure>
+					</div>
+
+				</div>
+			</div>
+		</section>
+
+		<!-- Frozen Waterfall Climb Section -->
+		<section>
+			<div class="blog-h2  h2-center">
+				<h2 id="gear-rental" class="para-1 mt-3">My First Proper Frozen Waterfall Climb </h2>
+			</div>
+			<div class="mb-3 content-blog justified-text">
+				After the morning training we walked deeper into the snow covered valley to reach the next
+				waterfall.
+			</div>
+
+			<div class="mb-3 content-blog justified-text">
+				The walk itself was cold but incredibly peaceful. Soon we arrived at a frozen waterfall about 15
+				meters high. This was where we practiced our first proper ice climb using the techniques we had
+				just
+				learned.
+			</div>
+			<div class="mb-3 content-blog justified-text">
+				Surprisingly, I did better than I expected. At the same time I quickly realized what I needed to
+				improve, especially my footwork and how I used my upper body.
+			</div>
+			<div class="mb-3 content-blog justified-text">
+				Ice climbing was fun, but learning the correct techniques and using the equipment efficiently
+				would
+				make the experience even more enjoyable.
+			</div>
+
+			<!-- Froozen Waterfall Climbing Gallery -->
+
+			<div class="climbing-photo-gallery container my-3">
+				<div class="row g-3">
+
+					<div class="col-6 col-md-3">
+						<figure>
+							<img src="images/ice_climbing_hokkaido_jp.jpg" class="img-fluid"
+								alt="Second frozen waterfall, actual climbing" loading="lazy">
+							<figcaption class="figcaption-text">Second waterfall climb</figcaption>
+						</figure>
+					</div>
+
+					<div class="col-6 col-md-3">
+						<figure>
+							<img src="images/ice_climbing_hokkaido_jp1.jpg" class="img-fluid"
+								alt="QX setting up the route" loading="lazy">
+							<figcaption class="figcaption-text">QX setting route</figcaption>
+						</figure>
+					</div>
+
+					<div class="col-6 col-md-3">
+						<figure>
+							<img src="images/ice_climbing_hokkaido_jp2.jpg" class="img-fluid"
+								alt="me climbing, actually doing better than I thought" loading="lazy">
+							<figcaption class="figcaption-text">Climbing better now</figcaption>
+						</figure>
+					</div>
+
+					<div class="col-6 col-md-3">
+						<figure>
+							<img src="images/ice_climbing_hokkaido_jp3.jpg" class="img-fluid" alt="Reaching the top"
+								loading="lazy">
+							<figcaption class="figcaption-text">Reaching the top</figcaption>
+						</figure>
+					</div>
+
+				</div>
+			</div>
+
+		</section>
+
+		<!-- The Largest Waterfall  Section -->
+		<section>
+			<div class="blog-h2 h2-center">
+				<h2 class="para-1 mt-3"> The Largest Waterfall of the Day
+				</h2>
+			</div>
+			<div class="mb-3 content-blog justified-text">
+				The third waterfall we climbed was my favorite of the entire trip.
+			</div>
+
+
+			<div class="mb-3 content-blog justified-text">
+				It was much larger than the others and required us to cross a partially frozen river to reach
+				the
+				base. QX set up the rope from the top and belayed us as we climbed.
+			</div>
+
+			<div class="mb-3 content-blog justified-text">
+				By this point I still was not fully comfortable using the crampons and ice axes together. When
+				you
+				swing the axe deep into the ice it can sometimes get stuck, and pulling it out requires balance
+				while standing on the crampons.
+
+			</div>
+
+			<div class="mb-3 content-blog justified-text">
+				If your crampons lose grip while you are trying to remove the axe, it can feel quite nerve
+				wracking.
+			</div>
+
+			<div class="mb-3 content-blog justified-text">
+				Near the top of the climb I could even hear water still flowing inside the frozen ice. That
+				sound
+				made me slightly nervous, but reaching the top and looking out at the winter landscape was an
+				incredible moment that is difficult to describe.
+			</div>
+
+			<!-- Approaching Waterfall Gallery -->
+			<div class="climbing-photo-gallery container my-3">
+				<div class="row g-3">
+
+					<div class="col-6 col-md-3">
+						<figure>
+							<img src="images/ice_climbing_japan_hokkdaido.jpg" class="img-fluid"
+								alt="Walking to the iconic waterfall of the day" loading="lazy">
+							<figcaption class="figcaption-text">Walking to waterfall</figcaption>
+						</figure>
+					</div>
+
+					<div class="col-6 col-md-3">
+						<figure>
+							<img src="images/ice_climbing_japan_hokkdaido1.jpg" class="img-fluid"
+								alt="Arrived, this one looks stunning" loading="lazy">
+							<figcaption class="figcaption-text">Stunning frozen waterfall</figcaption>
+						</figure>
+					</div>
+
+					<div class="col-6 col-md-3">
+						<figure>
+							<img src="images/ice_climbing_hokkaiodo_japan6.jpg" class="img-fluid" alt="Time to climb"
+								loading="lazy">
+							<figcaption class="figcaption-text">Time to climb</figcaption>
+						</figure>
+					</div>
+
+					<div class="col-6 col-md-3">
+						<figure>
+							<img src="images/ice_climbing_japan_hokkdaido3.jpg" class="img-fluid"
+								alt="Really enjoying it but not used to using gear" loading="lazy">
+							<figcaption class="figcaption-text">Enjoying but not used</figcaption>
+						</figure>
+					</div>
+
+					<div class="col-6 col-md-3">
+						<figure>
+							<img src="images/ice_climbing_japan_hokkdaido5.jpg" class="img-fluid"
+								alt="Serious face while using ice axe" loading="lazy">
+							<figcaption class="figcaption-text">Serious ice axe</figcaption>
+						</figure>
+					</div>
+
+					<div class="col-6 col-md-3">
+						<figure>
+							<img src="images/ice_climbing_japan_hokkdaido4.jpg" class="img-fluid"
+								alt="ByrdieOnTheRocks in action" loading="lazy">
+							<figcaption class="figcaption-text">Byrdie in action</figcaption>
+						</figure>
+					</div>
+
+					<div class="col-6 col-md-3">
+						<figure>
+							<img src="images/ice_climbing_japan_hokkdaido6.jpg" class="img-fluid"
+								alt="Atmosphere around the location is amazing" loading="lazy">
+							<figcaption class="figcaption-text">Winter atmosphere</figcaption>
+						</figure>
+					</div>
+
+					<div class="col-6 col-md-3">
+						<figure>
+							<img src="images/ice_climbing_japan_hokkdaido7.jpg" class="img-fluid"
+								alt="There are plenty of frozen waterfalls in this area" loading="lazy">
+							<figcaption class="figcaption-text">Many frozen waterfalls</figcaption>
+						</figure>
+					</div>
+
+				</div>
+			</div>
+		</section>
+
+		<!-- Ice Climbing Day 2 Section -->
+		<section>
+			<div class="blog-h2 h2-center">
+				<h2 id="day-two-conditions" class="para-1 mt-3"> Day 2 Ice Climbing in Changing Weather
+					Conditions
+				</h2>
+			</div>
+			<div class="mb-3 content-blog justified-text">
+				On Day 2, we started early again, but the weather conditions were very different from the day
+				before. It had been snowing nonstop since the night before, and the strong wind made it feel
+				much
+				colder.
+			</div>
+
+
+			<div class="mb-3 content-blog justified-text">
+				Because of this, we had to carefully evaluate the conditions and adjust our plan. QX originally
+				had
+				a different climbing route in mind, but safety always comes first. We needed to consider factors
+				such as weather, visibility, and potential avalanche risk, which was something completely new
+				for
+				me.
+			</div>
+
+			<div class="mb-3 content-blog justified-text">
+				This experience made me realize how important it is to climb with someone experienced,
+				especially
+				for beginners in ice climbing. Conditions in winter mountains can change quickly, and having a
+				knowledgeable guide makes a big difference.
+			</div>
+		</section>
+
+		<!-- Adjusting Plans Section -->
+		<section>
+			<div class="blog-h2 h2-center">
+				<h2 id="rayong" class="para-1 mt-3">Adjusting Plans and Focusing on Technique
+
+				</h2>
+			</div>
+			<div class="mb-3 content-blog justified-text">
+				Instead of climbing a large frozen waterfall, we shifted to a smaller ice climbing spot nearby.
+				This
+				turned out to be a great opportunity to focus more on practicing and improving our ice climbing
+				techniques.
+
+			</div>
+
+
+			<div class="mb-3 content-blog justified-text">
+				When we arrived at the parking area, we noticed several other cars already there. Many local
+				climbers were also out climbing, which surprised me. I did not realize how active the ice
+				climbing
+				community in Japan is.
+			</div>
+
+			<div class="mb-3 content-blog justified-text">
+				What I enjoyed most about this day was the overall experience. As someone who enjoys walking and
+				hiking, I really appreciated the approach to the climbing area. Walking through the snowy
+				landscape
+				gave me a small taste of alpine-style climbing, which I found myself enjoying more than I
+				expected.
+			</div>
+
+			<!-- Day 2 Ice Climbing Gallery -->
+			<div class="climbing-photo-gallery container my-3">
+				<div class="row g-3">
+
+					<div class="col-6 col-md-3">
+						<figure>
+							<img src="images/hokkaidao_ice_climbing_dayTwo.jpg" class="img-fluid"
+								alt="Hiking through the snow" loading="lazy">
+							<figcaption class="figcaption-text">Hiking through snow</figcaption>
+						</figure>
+					</div>
+
+					<div class="col-6 col-md-3">
+						<figure>
+							<img src="images/hokkaidao_ice_climbing_dayTwo_1.jpg" class="img-fluid"
+								alt="Really love this alpine style" loading="lazy">
+							<figcaption class="figcaption-text">Alpine style hiking</figcaption>
+						</figure>
+					</div>
+
+					<div class="col-6 col-md-3">
+						<figure>
+							<img src="images/hokkaidao_ice_climbing_dayTwo_2.jpg" class="img-fluid"
+								alt="Arrived at the climbing spot" loading="lazy">
+							<figcaption class="figcaption-text">Arrived at spot</figcaption>
+						</figure>
+					</div>
+
+					<div class="col-6 col-md-3">
+						<figure>
+							<img src="images/hokkaido_ice_climbing2.jpg" class="img-fluid" alt="Very cold winter day"
+								loading="lazy">
+							<figcaption class="figcaption-text">Very cold day</figcaption>
+						</figure>
+					</div>
+
+				</div>
+			</div>
+		</section>
+
+		<!-- Technical Ice Climbing Day Section -->
+		<section>
+			<div class="blog-h2 h2-center">
+				<h2 class="para-1 mt-3">A More Technical Ice Climbing Day
+				</h2>
+			</div>
+			<div class="mb-3 content-blog justified-text">
+				Compared to Day 1, the climbing on Day 2 felt less exciting but more technical.
+
+			</div>
+
+
+			<div class="mb-3 content-blog justified-text">
+				We spent more time practicing how to properly use crampons and ice axes on real ice surfaces.
+				Instead of focusing on completing routes, we focused on building better technique and
+				understanding
+				movement on ice.
+			</div>
+
+			<div class="mb-3 content-blog justified-text">
+				We still managed to complete a few climbs on the frozen waterfall. This one was actually more
+				challenging than the previous day because the ice had formed unevenly, with curved and irregular
+				surfaces that made it harder to place crampons securely.
+			</div>
+
+			<div class="mb-3 content-blog justified-text">
+				Even though the climbing itself was more difficult, I really enjoyed the atmosphere.
+			</div>
+
+			<div class="mb-3 content-blog justified-text">
+				Despite the cold weather, the snow-covered trees and quiet surroundings created a calm and
+				peaceful
+				environment. There was something about being in that winter landscape that felt very relaxing,
+				even
+				while climbing.
+			</div>
+			<!--  More Technical  Gallery -->
+			<div class="climbing-photo-gallery container my-3">
+				<div class="row g-3">
+
+					<div class="col-6 col-md-3">
+						<figure>
+							<img src="images/hokkaidao_ice_climbing_dayTwo_3.jpg" class="img-fluid"
+								alt="Still figuring how to use crampons" loading="lazy">
+							<figcaption class="figcaption-text">Figuring out crampons</figcaption>
+						</figure>
+					</div>
+
+					<div class="col-6 col-md-3">
+						<figure>
+							<img src="images/hokkaidao_ice_climbing_dayTwo_4.jpg" class="img-fluid"
+								alt="Struggling on the ice" loading="lazy">
+							<figcaption class="figcaption-text">Struggling on ice</figcaption>
+						</figure>
+					</div>
+
+					<div class="col-6 col-md-3">
+						<figure>
+							<img src="images/hokkaidao_ice_climbing_dayTwo_5.jpg" class="img-fluid"
+								alt="Gotta take a little break during climb" loading="lazy">
+							<figcaption class="figcaption-text">Taking a break</figcaption>
+						</figure>
+					</div>
+
+					<div class="col-6 col-md-3">
+						<figure>
+							<img src="images/ice_climbing_hokkaiodo_japan2.jpg" class="img-fluid"
+								alt="It is very enjoyable" loading="lazy">
+							<figcaption class="figcaption-text">Really enjoying it</figcaption>
+						</figure>
+					</div>
+
+				</div>
+			</div>
+		</section>
+
+		<!-- Final Thoughtss Section -->
+		<section>
+			<div class="blog-h2 h2-center">
+				<h2 id="final-thoughts" class="para-1 mt-3">Final Thoughts on My First Ice Climbing Experience
+					in
+					Hokkaido
+				</h2>
+			</div>
+			<div class="mb-3 content-blog justified-text">
+				This two day ice climbing experience in Hokkaido was beyond what I expected.
+			</div>
+
+
+			<div class="mb-3 content-blog justified-text">
+				I discovered a completely new type of climbing that felt very different from rock climbing, both
+				physically and mentally. From learning how to use crampons and ice axes to climbing frozen
+				waterfalls for the first time, every moment felt like a new challenge.
+
+			</div>
+
+			<div class="mb-3 content-blog justified-text">
+				At the same time, this trip was not just about climbing. It also introduced me to winter hiking,
+				alpine-style movement, and the experience of being in a snowy mountain environment. It also gave
+				me
+				the chance to experience Japan in winter in a completely different way.
+
+			</div>
+
+			<div class="mb-3 content-blog justified-text">
+				As someone coming from a tropical country, this was something completely new, and it opened my
+				eyes
+				to another side of outdoor adventure that I had never considered before.
+			</div>
+
+			<div class="mb-3 content-blog justified-text">
+				Would I do it again?
+			</div>
+
+			<div class="mb-3 content-blog justified-text">
+				Yes, definitely.
+			</div>
+
+
+			<div class="mb-3 content-blog justified-text">
+				Ice climbing is challenging, sometimes uncomfortable, and requires preparation, but it is also
+				incredibly rewarding. Reaching the top of a frozen waterfall and looking out over the winter
+				landscape is an experience that is difficult to describe.
+			</div>
+
+			<div class="mb-3 content-blog justified-text">
+				This trip made me realize how much more there is to explore in climbing, especially across
+				different
+				seasons and environments
+			</div>
+
+
+		</section>
+
+
+		<section>
+
+			<div class="mb-3 content-blog">
+				Until then, keep climbing and keep exploring.
+			</div>
+			<div class="content-blog mb-5" style="font-weight: 500;">
+				ByrdieOnTheRocks :)
+			</div>
+
+		</section>
+		</div>
+	</main>
+	<!-- End of container-->
+
+
+
+	<p style="height: 0px;"></p>
+
+	<!-- Back to Top Button -->
+	<button id="backToTop">↑ Back to Top</button>
+
+
+
+	<div class="container text-center mb-4 navigation-bottom" style="margin-top: -100px;">
+		<div class="row d-flex justify-content-between align-items-center">
+			<!-- Left Arrow -->
+
+			<div class="col-auto">
+				<a href="ice-climbing-hokkaido-part-1" class="btn btn-lin navigation-krabi">
+					<svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" fill="currentColor"
+						class="bi bi-arrow-left-circle-fill" viewBox="0 0 16 16">
+						<path
+							d="M8 0a8 8 0 1 0 0 16A8 8 0 0 0 8 0m3.5 7.5a.5.5 0 0 1 0 1H5.707l2.147 2.146a.5.5 0 0 1-.708.708l-3-3a.5.5 0 0 1 0-.708l3-3a.5.5 0 1 1 .708.708L5.707 7.5z" />
+					</svg> Previous
+				</a>
+			</div>
+
+			<!-- Home button -->
+			<div class="col text-center">
+				<a href="index" class="btn btn-link navigation-krabi">
+					<span class="mr-2"></span> Home
+				</a>
+			</div>
+
+			<!-- Right Arrow -->
+			<div class="col-auto">
+				<a href="my-blogs" class="btn btn-link navigation-krabi">
+					My blogs <svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" fill="currentColor"
+						class="bi bi-arrow-right-circle-fill" viewBox="0 0 16 16">
+						<path
+							d="M8 0a8 8 0 1 1 0 16A8 8 0 0 1 8 0M4.5 7.5a.5.5 0 0 0 0 1h5.793l-2.147 2.146a.5.5 0 0 0 .708.708l3-3a.5.5 0 0 0 0-.708l-3-3a.5.5 0 1 0-.708.708L10.293 7.5z" />
+					</svg>
+				</a>
+			</div>
+
+		</div>
+	</div>
+
+	<!-- Bootstrap 5 JS -->
+
+	<!-- ✅ Pop-up -->
+	<div id="popup" class="popup">
+		<div class="popup-content">
+			<span id="close-btn" class="close-btn">&times;</span>
+
+			<p>👋 Hey there! This blog is just me sharing my climbing adventures and learning to code along the way.
+				It’s not
+				pro advice — just good vibes and personal stories!</p>
+
+			<!-- ✅ New "Continue Reading" button -->
+			<button id="continue-btn" class="continue-btn">Continue Reading</button>
+		</div>
+	</div>
+
+	<footer>
+		<div class="container text-center web-footer">
+			<p>&copy; 2024 Byrdie Climbing Blogs | All rights reserved</p>
+		</div>
+	</footer>
+
+	<!-- Bootstrap 5 JS -->
+	<script src="https://cdn.jsdelivr.net/npm/@popperjs/core@2.11.6/dist/umd/popper.min.js"></script>
+	<script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.3/dist/js/bootstrap.min.js"></script>
+
+	<script>
+		// Show back to top button on scroll
+		window.onscroll = function () {
+			let button = document.getElementById("backToTop");
+			if (document.documentElement.scrollTop > 200) {
+				button.style.display = "block";
+			} else {
+				button.style.display = "none";
+			}
+		};
+
+		// Scroll to top function
+		document.getElementById("backToTop").addEventListener("click", function () {
+			window.scrollTo({ top: 0, behavior: 'smooth' });
+		});
+
+		// Disclaimer popup logic (the other popup)
+		window.onload = function () {
+			const disclaimerPopup = document.getElementById('popup');
+			const closeDisclaimerBtn = document.getElementById('close-btn');
+
+			if (closeDisclaimerBtn) {
+				closeDisclaimerBtn.addEventListener('click', function () {
+					disclaimerPopup.style.display = 'none';
+				});
+			}
+
+			const continueBtn = document.getElementById('continue-btn');
+			if (continueBtn) {
+				continueBtn.onclick = function () {
+					disclaimerPopup.style.display = 'none';
+				};
+			}
+		};
+
+		// Read more popup 
+		const readMorePopup = document.getElementById('popupBox');
+		const closeReadMoreBtn = document.getElementById('closePopup');
+		const triggerLink = document.getElementById('klLink');
+
+		let popupClosed = false;   // tracks manual or auto close
+		let popupShown = false;    // Run auto-close only once
+
+		// Show popup when link is fully in view
+		window.addEventListener('scroll', () => {
+			if (popupClosed || popupShown) return;          // do nothing if already closed 
+			if (!readMorePopup || !triggerLink) return;     // safety check
+
+			const rect = triggerLink.getBoundingClientRect();
+			const fullyVisible = rect.top >= 0 && rect.bottom <= window.innerHeight;
+
+			if (fullyVisible) {
+				readMorePopup.style.display = 'block';
+				popupShown = true;                            // remember we have displayed it once
+
+				// Auto-close after 3 seconds
+				setTimeout(() => {
+					readMorePopup.style.display = 'none';
+					popupClosed = true;                         // stop future popups
+				}, 3000);
+			}
+		});
+
+		// Manual close button for KL popup
+		if (closeReadMoreBtn) {
+			closeReadMoreBtn.addEventListener('click', () => {
+				readMorePopup.style.display = 'none';
+				popupClosed = true;   // stop future popups
+			});
+		}
+
+		// ================================
+		// popup logic (new popup)
+		const taiwanPopup = document.getElementById('popupBoxTaiwan');
+		const closeTaiwanBtn = document.getElementById('closePopupTaiwan');
+		const taiwanTriggerLink = document.getElementById('taiwanLink');
+
+		let taiwanPopupClosed = false;
+		let taiwanPopupShown = false;
+
+		window.addEventListener('scroll', () => {
+			if (taiwanPopupClosed || taiwanPopupShown) return;
+			if (!taiwanPopup || !taiwanTriggerLink) return;
+
+			const rect = taiwanTriggerLink.getBoundingClientRect();
+			const fullyVisible = rect.top >= 0 && rect.bottom <= window.innerHeight;
+
+			if (fullyVisible) {
+				taiwanPopup.style.display = 'block';
+				taiwanPopupShown = true;
+
+				setTimeout(() => {
+					taiwanPopup.style.display = 'none';
+					taiwanPopupClosed = true;
+				}, 4000);
+			}
+		});
+
+		if (closeTaiwanBtn) {
+			closeTaiwanBtn.addEventListener('click', () => {
+				taiwanPopup.style.display = 'none';
+				taiwanPopupClosed = true;
+			});
+		}
+	</script>
+
+</body>
+
+</html>
